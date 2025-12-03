@@ -67,12 +67,12 @@ const ChatbotSection = () => {
           <h3 className="text-2xl font-semibold text-gray-800 mb-6 text-center">
             Choose Your Path
           </h3>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {modes.map((mode, index) => (
               <button
                 key={index}
                 onClick={() => handleModeClick(mode.prompt)}
-                className="p-6 text-left bg-white border-2 border-gray-200 rounded-xl hover:border-primary-500 hover:bg-primary-50 hover:shadow-lg transition-all duration-200 group"
+                className="p-6 text-left bg-white rounded-lg shadow-md hover:shadow-xl hover:bg-primary-50 transition-all duration-200 group"
               >
                 <div className="flex items-start gap-4">
                   <span className="text-4xl flex-shrink-0">{mode.emoji}</span>

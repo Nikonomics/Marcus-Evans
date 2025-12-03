@@ -46,26 +46,26 @@ const AboutSection = () => {
 
           <div className="mb-8">
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Resources Included</h3>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-              <div className="bg-gray-50 p-4 rounded-lg">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              <div className="bg-white p-4 rounded-lg shadow-md hover:shadow-lg transition-shadow">
                 <h4 className="font-semibold text-gray-900 mb-2">AI Chatbot Consultant</h4>
                 <p className="text-sm text-gray-600">
                   Interactive assistant trained on senior living AI implementation
                 </p>
               </div>
-              <div className="bg-gray-50 p-4 rounded-lg">
+              <div className="bg-white p-4 rounded-lg shadow-md hover:shadow-lg transition-shadow">
                 <h4 className="font-semibold text-gray-900 mb-2">Downloadable Frameworks</h4>
                 <p className="text-sm text-gray-600">
                   Ready-to-use templates and assessment tools
                 </p>
               </div>
-              <div className="bg-gray-50 p-4 rounded-lg">
+              <div className="bg-white p-4 rounded-lg shadow-md hover:shadow-lg transition-shadow">
                 <h4 className="font-semibold text-gray-900 mb-2">Case Studies</h4>
                 <p className="text-sm text-gray-600">
                   Real examples from successful implementations
                 </p>
               </div>
-              <div className="bg-gray-50 p-4 rounded-lg">
+              <div className="bg-white p-4 rounded-lg shadow-md hover:shadow-lg transition-shadow">
                 <h4 className="font-semibold text-gray-900 mb-2">Implementation Playbooks</h4>
                 <p className="text-sm text-gray-600">
                   Step-by-step guides for common AI use cases
