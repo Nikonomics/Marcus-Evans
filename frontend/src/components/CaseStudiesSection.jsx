@@ -39,7 +39,8 @@ const CaseStudiesSection = () => {
       ],
       timeline: '90-day rollout',
       images: ['/images/case-studies/contract-management/screenshot.png'],
-      videoUrl: ''
+      videoUrl: '',
+      websiteUrl: 'https://contractiq.us/'
     },
     {
       icon: '👥',
@@ -218,7 +219,7 @@ const CaseStudiesSection = () => {
             <div
               key={index}
               className={`bg-white rounded-lg shadow-md overflow-hidden border-2 border-gray-200 hover:border-blue-500 transition-all flex flex-col ${
-                expandedIndex === index ? 'col-span-1 md:col-span-2 lg:col-span-3' : ''
+                expandedIndex === index ? 'col-span-1 md:col-span-2 lg:col-span-2' : ''
               }`}
             >
               {/* Header - Always Visible */}
