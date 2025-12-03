@@ -1,0 +1,209 @@
+VENDOR EVALUATION PLAYBOOK
+How to Evaluate AI Vendors Without Getting Sold
+The BS Detector Guide for Senior Living Operators
+Overview
+AI vendors are eager to sell. Your job is to separate substance from hype. This playbook gives you a structured process to evaluate vendors, ask the right questions, and avoid common traps.
+The 4-Phase Evaluation Process:
+	•	Initial Screening — Before you agree to a demo
+	•	Demo Evaluation — What to watch for
+	•	Reference Checks — Talking to real customers
+	•	Pilot Terms Negotiation — Protecting yourself
+Golden Rule:
+"If a vendor can't clearly explain what their AI actually does, they're selling magic, not technology."
+PHASE 1: Initial Screening
+Goal: Filter vendors before you invest time in demos. Ask these questions via email or initial call.
+15 Critical Questions to Ask Before Demo
+Send these questions to any vendor before agreeing to a full demo:
+Question
+Why You're Asking
+1. How many SNF/ALF customers do you have?
+Tests industry experience
+2. Can you provide 3 references our size?
+Validates claims with real customers
+3. What workflow specifically do you solve?
+Ensures focus, not 'boil the ocean'
+4. What exactly does the AI do vs. what humans do?
+Separates real AI from marketing
+5. Does your solution add steps or remove steps?
+AI should reduce work, not add it
+6. What systems do you integrate with?
+Must work with your existing stack
+7. Do you integrate with PCC specifically?
+Critical for most SNFs
+8. What's your typical implementation timeline?
+Tests realistic expectations
+9. What training is required for staff?
+Hidden cost of adoption
+10. Do you offer a pilot program?
+Must try before full commitment
+11. What metrics do your customers track?
+Should match your success criteria
+12. What ROI do similar customers achieve?
+Benchmarks for your expectations
+13. What's the pricing structure?
+Understand total cost
+14. What happens if it doesn't work?
+Exit clause is essential
+15. Who is our point of contact after sale?
+Tests ongoing support quality
+Red Flags vs. Green Flags in Responses
+🚩 RED FLAGS — Walk Away If You Hear:
+	•	"Our AI will transform your entire operation"
+	•	"We don't really do pilots—it's better to start full-scale"
+	•	"We work with all healthcare" (no SNF-specific experience)
+	•	"It's hard to explain exactly what the AI does"
+	•	"We're still building the integration with PCC"
+	•	"Our customers see ROI within days" (unrealistic)
+	•	"We can't share references due to privacy" (hiding something)
+	•	Pricing requires a long-term contract upfront
+	•	They avoid the 'what happens if it doesn't work' question
+✅ GREEN FLAGS — Take Them Seriously If You Hear:
+	•	"We focus specifically on [your exact workflow]"
+	•	"Let me connect you with 3 facilities like yours"
+	•	"We recommend a 30-60 day pilot"
+	•	"Here's exactly what the AI does vs. what your staff does"
+	•	"We integrate directly with PCC" (or your EHR)
+	•	"Typical results take 30-60 days to appear"
+	•	"Here's what we can't do" (honest about limitations)
+	•	Clear pricing with pilot option
+	•	"If it doesn't work, here's our exit process"
+PHASE 2: Demo Evaluation
+Goal: Evaluate the solution with clear criteria. Bring the right people. Ask the right questions.
+What to Request Before the Demo
+	•	Live demo, not a slide deck. "Show me the actual product."
+	•	Demo with your workflow. "Can you show this with a prior auth scenario?" (or whatever workflow you're solving)
+	•	Step-by-step walkthrough. "Walk me through from trigger to completion."
+	•	Error scenario. "Show me what happens when something goes wrong."
+Who Should Attend
+Always bring the person who actually does the work.
+	•	Required: The 'Workflow Hero' who owns the process
+	•	Recommended: Department head who will approve
+	•	Optional: IT (only if integration is complex)
+Why the Hero must attend:
+They know the real workflow. They'll spot gaps the vendor glosses over. They'll know if it actually removes steps or adds them.
+Demo Evaluation Scorecard
+Score each criterion 1-5 during the demo:
+Criterion
+Score (1-5)
+Notes
+Workflow match: Solves YOUR specific problem
+__/5
+
+Step reduction: Actually removes work, not adds it
+__/5
+
+Ease of use: Hero could learn this in <2 hours
+__/5
+
+Integration: Works with your current systems
+__/5
+
+Error handling: Clear process when things go wrong
+__/5
+
+AI clarity: Clear explanation of what AI does
+__/5
+
+Hero reaction: Your workflow owner is excited
+__/5
+
+TOTAL:
+__/35
+
+Score Interpretation:
+	•	28-35: Strong candidate—move to references
+	•	21-27: Potential—clarify concerns before proceeding
+	•	<21: Pass—not the right fit
+PHASE 3: Reference Checks
+Goal: Talk to real customers. Get the unfiltered truth.
+Request Specific References
+Don't accept generic references. Ask for:
+	•	A facility similar to your size
+	•	A facility that's been using the solution for 6+ months
+	•	A facility that had a challenging implementation (yes, ask for this)
+15 Questions for References
+Ask each reference these questions. Take notes.
+Implementation Questions:
+	•	How long did implementation really take?
+	•	What surprised you during implementation?
+	•	How much staff training was required?
+	•	What was the hardest part of getting started?
+Results Questions:
+	•	What specific results have you measured?
+	•	How long before you saw real results?
+	•	Does it actually save time, or did it add new work?
+	•	What's the ROI you're seeing?
+Experience Questions:
+	•	What does your staff think of the tool?
+	•	What's the worst thing about working with this vendor?
+	•	What do you wish you'd known before signing?
+	•	How responsive is support when things break?
+	•	If you had to do it again, would you choose them?
+The Killer Question:
+	•	"Is there anything I should have asked that I didn't?"
+What to Listen For (Between the Lines)
+What They Say
+What It Might Mean
+"My team would mutiny if we took it away"
+✅ Strong adoption signal
+"It took a while to get used to"
+⚠️ Plan for longer adoption
+"Support was...okay"
+🚩 Dig deeper—probably bad
+Specific metrics and numbers
+✅ Real results, not fluff
+Vague: "It's been helpful"
+🚩 May not have measured anything
+PHASE 4: Pilot Terms Negotiation
+Goal: Protect yourself with the right contract terms before committing.
+What Good Pilots Include
+	•	Duration: 30-60 days minimum. 90 days ideal.
+	•	Scope: ONE building, ONE workflow
+	•	Success criteria: Defined upfront in writing
+	•	Support: Named contact, response time SLA
+	•	Exit clause: Can end with 30-day notice
+	•	Pricing: Discounted or free during pilot
+What to Avoid in Contracts
+	•	❌ Multi-year commitment required for pilot: Never.
+	•	❌ Auto-renewal clauses: Require written opt-in.
+	•	❌ All-buildings commitment: Pilot should be 1 building only.
+	•	❌ Vague success criteria: Must be specific and measurable.
+	•	❌ Termination penalties: Pilot should have easy exit.
+Pricing Red Flags
+	•	Per-bed pricing that doesn't scale
+	•	Hidden implementation fees
+	•	Training charged separately
+	•	Support tiers that require upgrade for basics
+	•	Significant price increases after year 1
+Exit Clause Essentials
+Your contract MUST include:
+	•	Written 30-day termination notice
+	•	Data export: You own your data, they must provide it
+	•	No termination penalties during pilot
+	•	Pro-rated refund if ending mid-term (post-pilot)
+The Complete BS Detector Checklist
+Use this as your final evaluation tool.
+❌ RUN AWAY — Vendor is not serious:
+	•	"Our AI will transform everything"
+	•	No pilot offered
+	•	Can't explain what AI actually does
+	•	No SNF/ALF-specific customers
+	•	Won't provide references
+	•	Requires multi-year commitment before pilot
+	•	Solution adds steps instead of removing them
+⚠️ INVESTIGATE — Needs clarification:
+	•	Limited SNF experience but willing to pilot
+	•	Integration "in progress" but not complete
+	•	References are all from different industries
+	•	Pricing structure is complex
+	•	Results take longer than expected
+✅ SERIOUS VENDOR — Move forward:
+	•	Specific workflow focus
+	•	Offers structured pilot
+	•	Clear AI explanation
+	•	SNF/ALF references available
+	•	Honest about limitations
+	•	Reasonable timeline expectations
+	•	Clear pricing with pilot option
+	•	Solution removes steps
+Remember: If they can't explain it clearly, they can't deliver it reliably.

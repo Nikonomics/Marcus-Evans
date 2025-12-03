@@ -1,0 +1,209 @@
+FIRST WEEK DISCOVERY PLAYBOOK
+Identify Your First 10-20 AI Opportunities in 5 Days
+The 4-Touch Discovery Method
+Overview
+This playbook helps you identify 10-20 AI opportunities within your organization in just one week. By the end of Friday, you'll have a prioritized list of workflows ready for AI implementation.
+The 4-Touch Discovery Method:
+	•	Monday: Pain Point Inventory — Ask your leaders what hurts
+	•	Tuesday-Wednesday: Spreadsheet Census — Find your power users
+	•	Thursday: Friday Afternoon Audit Prep — Plan your walkthrough
+	•	Friday: The Friday Afternoon Audit — See what piles up
+What You'll Have by Friday:
+	•	A list of 10-20 specific workflow pain points
+	•	Identified 'Spreadsheet Heroes' who hold critical processes
+	•	Prioritized scoring of each opportunity
+	•	Your top 3 candidates for AI pilots
+MONDAY: Pain Point Inventory
+Goal: Collect pain points directly from department heads and key staff.
+Morning: Send the Discovery Email
+Send the following email to all department heads and key operational staff by 9 AM.
+📧 EMAIL TEMPLATE — Copy and Send:
+Subject: Quick Question - What's Your Team's Biggest Time-Waster?
+
+Hi Team,
+
+I'm working on a project to reduce administrative burden in our organization. I need your honest input.
+
+Please answer these 3 questions (spend no more than 5 minutes total):
+
+1. What task makes your best person curse at their computer?
+2. What would you celebrate never doing again?
+3. What workflow do you personally avoid until you absolutely have to do it?
+
+Please reply by end of day Wednesday. Short answers are perfect.
+
+Thanks!
+[Your Name]
+Who to Send To:
+	•	Director of Nursing / DON
+	•	Business Office Manager / BOM
+	•	Admissions Director
+	•	Scheduler / Staffing Coordinator
+	•	MDS Coordinator
+	•	Therapy Director (if applicable)
+	•	HR Manager
+	•	Administrator
+	•	Regional contacts (if multi-facility)
+Afternoon: Prepare Your Tracking System
+Create a simple spreadsheet or document to capture responses. You'll use this all week.
+Discovery Tracker Columns:
+Workflow
+Department
+Source
+Frequency
+Pain (1-3)
+People (1-3)
+Prior Auth Appeals
+Billing
+Email
+Daily (3)
+3
+2
+(Your entries)
+
+
+
+
+
+Monday End-of-Day Checklist:
+	•	☐ Discovery email sent to all department heads
+	•	☐ Discovery tracker created
+	•	☐ Calendar blocked for Friday 2-4 PM walkthrough
+TUESDAY-WEDNESDAY: Spreadsheet Census
+Goal: Identify your 'Spreadsheet Heroes' — the people who keep your organization running with Excel files, manual trackers, and workarounds.
+How to Identify Spreadsheet Heroes
+Spreadsheet Heroes are the staff members who:
+	•	Maintain complex Excel files that multiple people depend on
+	•	Have created workarounds because systems don't talk to each other
+	•	Are the 'go-to' person when something breaks
+	•	When they're out sick, things fall apart
+Where to Look:
+	•	Scheduling: Ask who builds and manages the staffing schedules
+	•	Billing: Ask who tracks denials, AR aging, or payer rules
+	•	MDS: Ask who cross-references assessments and documentation
+	•	Admissions: Ask who manages the referral pipeline or packet assembly
+	•	Quality: Ask who compiles Key Factors, QAPI data, or survey prep
+Questions to Ask Each Hero (15-minute conversation)
+Schedule 15 minutes with each identified Hero. Use these questions:
+Opening:
+"I'm trying to understand where our organization spends the most time on manual work. I've heard you maintain some important spreadsheets and processes. Can I ask you a few questions?"
+Discovery Questions:
+	•	What spreadsheets or files do you maintain?
+	•	How often do you update them? (Daily? Weekly?)
+	•	How long does each update take?
+	•	Where does the data come from? (What systems do you pull from?)
+	•	If you won the lottery tomorrow, who would know how to do this?
+	•	What's the worst part of this process?
+	•	If you could wave a magic wand, what would change?
+How to Shadow Effectively
+If a Hero has a particularly complex workflow, ask to shadow them for 30-60 minutes.
+Shadow Session Guidelines:
+	•	Ask permission to observe without interrupting
+	•	Have them narrate what they're doing: "Now I'm copying this from..."
+	•	Count: systems touched, tabs open, copy/paste actions
+	•	Note every 'ugh' moment, sigh, or workaround
+	•	Ask after: 'Does it ever go faster than this?'
+What to Record:
+Capture This
+Why It Matters
+Number of systems touched
+More systems = more integration friction
+Copy/paste count
+Each paste = potential error and wasted time
+Total time to complete
+Baseline for measuring improvement
+Workarounds described
+Shows system limitations
+Frequency of task
+Higher frequency = higher AI ROI
+Tuesday-Wednesday Checklist:
+	•	☐ Identified 3-5 Spreadsheet Heroes across departments
+	•	☐ Conducted 15-minute interviews with each
+	•	☐ Shadowed at least one complex workflow
+	•	☐ Added all discovered workflows to Discovery Tracker
+	•	☐ Email responses starting to come in
+THURSDAY: Friday Afternoon Audit Prep
+Goal: Prepare for your Friday walkthrough and compile responses.
+Morning: Process Email Responses
+Review all responses to your Monday email. For each pain point mentioned:
+	•	Add it to your Discovery Tracker
+	•	Note who mentioned it
+	•	Flag if multiple people mentioned the same thing (strong signal!)
+	•	Estimate frequency and severity
+Response Patterns to Watch For:
+	•	Multiple mentions of the same task: Strong candidate
+	•	Emotional language ("hate," "nightmare," "killing us"): High pain
+	•	Time estimates included: Good for ROI calculation
+	•	System names mentioned: Helps scope solution
+Afternoon: Plan Your Friday Walkthrough
+The Friday Afternoon Audit is your most powerful discovery tool. Tasks that pile up on Friday afternoon are always high-friction, high-urgency, and repetitive.
+Walkthrough Route Planning:
+Identify which areas you'll visit. Plan to spend 10-15 minutes in each:
+	•	Nursing station
+	•	Business office
+	•	Admissions
+	•	Scheduler's desk
+	•	MDS coordinator
+	•	Administrator's office
+Prepare Your Script:
+"Hey [Name], it's almost the weekend! I'm trying to understand where administrative work piles up. Real quick — what are you working on right now that you're trying to finish before you leave? Anything you're pushing to Monday?"
+Thursday Checklist:
+	•	☐ All email responses processed and added to tracker
+	•	☐ Walkthrough route planned
+	•	☐ Script prepared
+	•	☐ Notepad/tablet ready for tomorrow
+	•	☐ Follow up with non-responders
+FRIDAY: The Friday Afternoon Audit
+Goal: Walk your facility at 2-3 PM and capture every piece of work that's piling up.
+2:00-3:30 PM: The Walkthrough
+Visit each area on your planned route. At each stop:
+Questions to Ask:
+	•	"What are you still working on right now?"
+	•	"What are you pushing to Monday?"
+	•	"What would break or fall behind if you left right now?"
+	•	"Is this the same every Friday, or just today?"
+	•	"What's the most annoying part of this task?"
+What Friday Pileup Indicates:
+What You See
+What It Means
+Tasks pushed to Monday
+Workload exceeds capacity
+Same task every Friday
+Predictable, repetitive = AI-ready
+Someone staying late
+High urgency, can't wait
+Frustration or eye-rolling
+High annoyance, low value
+Multiple spreadsheets open
+Manual data reconciliation
+3:30-5:00 PM: Compile and Score
+Return to your desk and finalize your Discovery Tracker.
+Scoring Formula:
+Priority Score = Frequency (1-3) × Pain Level (1-3) × People Affected (1-3)
+Maximum score = 27. Minimum score = 1.
+Scoring Guide:
+	•	Frequency: Daily = 3, Weekly = 2, Monthly = 1
+	•	Pain Level: High = 3, Medium = 2, Low = 1
+	•	People Affected: Many (5+) = 3, Some (2-4) = 2, Few (1) = 1
+What Your Scores Mean:
+	•	18-27: Immediate opportunity — start here
+	•	9-17: Strong candidate — evaluate next
+	•	1-8: Lower priority — table for later
+End of Week: Your Deliverables
+By end of day Friday, you should have:
+	•	☐ Discovery Tracker with 10-20 workflow pain points
+	•	☐ Each workflow scored using Priority formula
+	•	☐ Identified 3-5 Spreadsheet Heroes
+	•	☐ Ranked list with top 3 opportunities highlighted
+Top 3 Template
+Document your top 3 opportunities in this format:
+OPPORTUNITY #1: [Workflow Name]
+Priority Score: ___ / 27
+Department: _______________
+Hero: _______________
+Time Spent Weekly: ___ hours
+Key Pain: _______________
+Discovery Source: ☐ Email ☐ Shadow ☐ Friday Audit
+What's Next?
+Take your top opportunity and move to the 30-Day Pilot Playbook to begin implementation.
+Congratulations on completing your First Week Discovery!

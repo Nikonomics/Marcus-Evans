@@ -1,0 +1,251 @@
+30-DAY AI PILOT PLAYBOOK
+A Step-by-Step Guide from Workflow Selection to Pilot Completion
+For Senior Living Operators
+Overview
+This playbook guides you through a controlled 30-day AI pilot. The goal is simple: prove value with one workflow in one building before scaling. Follow this day-by-day to minimize risk and maximize learning.
+What You'll Achieve:
+	•	Document your current workflow reality (not the ideal)
+	•	Define measurable success criteria
+	•	Select and evaluate the right tool
+	•	Run a controlled test with clear decision points
+	•	Make a confident kill/pivot/scale decision
+WEEK 1: Document Current State
+Goal: Capture exactly how work happens today—not the policy version, the real version.
+Day 1: Identify Your Workflow Hero
+Your 'Hero' is the person who owns the workflow you're piloting. They know every shortcut, every workaround, every frustration.
+Morning Actions:
+	•	Confirm your selected workflow from discovery phase
+	•	Identify the 1-2 people who do this work most often
+	•	Schedule a 2-hour shadow session with your primary Hero
+	•	Set up screen recording tool (Loom free tier works perfectly)
+Afternoon Actions:
+	•	Have initial conversation with Hero—explain purpose, get buy-in
+	•	Ask: 'What do you wish you could change about this process?'
+	•	Ask: 'Where do errors usually happen?'
+	•	Ask: 'What would make this 10x better?'
+Hero Conversation Script:
+"Hey [Name], I'm working on a project to reduce the administrative burden in our building. I know you handle [workflow] and I've heard it can be painful. I want to understand exactly how you do it—not the textbook way, but the real way. Would you be willing to let me shadow you for a couple hours? I want to record your screen so I can capture every step. The goal isn't to evaluate you—it's to find where AI might help."
+End of Day Checklist:
+	•	☐ Shadow session scheduled for Day 2 or 3
+	•	☐ Hero understands purpose and is bought in
+	•	☐ Screen recording tool tested and working
+	•	☐ Initial pain points documented
+Days 2-3: Shadow and Record
+This is where the real gold lives. Watch everything. Capture everything.
+Shadow Session Guidelines:
+	•	Record the entire session (with permission)
+	•	Ask them to narrate: 'What are you doing now? Why?'
+	•	Note every system they touch (PCC, Excel, email, text, paper)
+	•	Count clicks, copy/pastes, and screen switches
+	•	Document 'wait time' (when system is loading, searching, etc.)
+	•	Listen for sighs, 'ugh', and 'hold on' moments—those are friction signals
+Questions to Ask During Shadow:
+	•	'Why do you do it this way?'
+	•	'What happens if you skip this step?'
+	•	'Does it ever go differently?'
+	•	'What's the worst version of this you've dealt with?'
+	•	'If you're out sick, who covers? Do they know all this?'
+What to Document:
+	•	Total time to complete one instance of the workflow
+	•	Number of systems touched
+	•	Number of manual steps (copy/paste, data entry, switching screens)
+	•	Where information gets 'stuck' or requires hunting
+	•	Error-prone steps
+	•	Workarounds they've invented
+Days 4-5: Build Your Workflow Map
+Convert your shadowing into a clear process document.
+Create a Workflow Map with:
+	•	Trigger: What starts this workflow? (admission, call-off, payer request, etc.)
+	•	Steps: Every action in order, including 'invisible' steps like waiting
+	•	Systems: Every tool touched (PCC, Excel, email, paper, text)
+	•	Time: How long each step takes
+	•	Friction Points: Where pain happens
+	•	Output: What the completed workflow produces
+Validate with Your Hero:
+Share your workflow map with the Hero and ask: 'Did I get this right?' Make corrections. This becomes your baseline.
+Week 1 Deliverables:
+	•	☐ Screen recording of actual workflow (2-4 hours of footage)
+	•	☐ Written workflow map (trigger → steps → systems → time → output)
+	•	☐ List of top 3-5 friction points ranked by severity
+	•	☐ Hero's wish list for improvement
+	•	☐ Baseline metrics (time per instance, error rate, volume)
+Common Week 1 Mistakes:
+	•	❌ Documenting the 'policy' version instead of the real version
+	•	❌ Not recording the session (you'll forget details)
+	•	❌ Rushing the shadow—you need to see the full workflow at least twice
+	•	❌ Not validating the map with the Hero
+WEEK 2: Define Success & Select Tool
+Goal: Establish clear success criteria and identify the right solution.
+Days 6-7: Define Success Metrics
+If you can't measure success, you can't declare victory or failure. Define metrics now.
+Primary Metrics (Pick 2-3):
+Metric
+How to Measure
+Success Threshold
+Time Saved
+Stopwatch 10 instances before/after
+30%+ reduction
+Touches Removed
+Count manual steps before/after
+50%+ reduction
+Error Rate
+Track corrections needed per 20 instances
+Equal or better
+Team Satisfaction
+1-10 rating weekly from Hero
+7+ average
+Success Criteria Statement Template:
+"This pilot will be successful if we reduce [workflow] time from [X hours] to [Y hours] per [week/instance], while maintaining or improving accuracy, and the team rates their experience 7+ out of 10."
+Days 8-10: Classify & Select Solution
+Determine what type of AI you need, then find the right tool.
+Step 1: Classify Your Workflow
+Use the TRUST Framework to determine if you need an Assistant or Agent:
+TRUST Factor
+→ Assistant
+→ Agent
+Time Sensitivity
+Hours/Days (human available)
+Seconds/Minutes (no human available)
+Risk Tolerance
+High stakes (need human check)
+Low stakes (mistakes fixable)
+Uniformity
+<80% predictable
+80%+ follows same pattern
+Staff Capacity
+Staff has bandwidth to review
+Staff overwhelmed—need full handoff
+Training Investment
+Need quick win (this month)
+Can invest 2-3 months
+Quick Classification Rule:
+	•	Start with Assistants if you're unsure. Lower risk, faster implementation.
+	•	Consider Agents only when: no human is available at decision time AND the workflow is 80%+ predictable AND mistakes are easily corrected.
+Step 2: Identify Solution Options
+Based on your workflow, identify 2-3 potential solutions:
+	•	Off-the-shelf tools: Existing products designed for your use case
+	•	General AI assistants: ChatGPT/Claude with custom prompts
+	•	Custom development: Built specifically for your needs
+Week 2 Deliverables:
+	•	☐ Written success criteria statement
+	•	☐ Baseline measurements documented
+	•	☐ TRUST classification completed (Assistant vs Agent)
+	•	☐ 2-3 potential solutions identified
+	•	☐ Demo requests sent to vendors (if applicable)
+WEEK 3: Begin Testing
+Goal: Start using the solution on real work and track results.
+Days 11-14: Launch Controlled Test
+Start small. Very small.
+Day 11 - Setup:
+	•	Tool/solution configured and accessible to Hero
+	•	Hero has received basic training (30-60 minutes max)
+	•	Tracking spreadsheet created (date, time, notes, issues)
+	•	Daily check-in time scheduled (15 minutes)
+Days 12-14 - First Tests:
+	•	Process 3-5 instances per day with the new tool
+	•	Hero documents: What worked? What didn't? How long did it take?
+	•	You review outputs for accuracy
+	•	Daily 15-minute debrief with Hero
+Daily Check-In Questions:
+	•	How many instances did you process today?
+	•	What was the average time per instance?
+	•	Did you encounter any errors or issues?
+	•	On a scale of 1-10, how was the experience today?
+	•	Anything that frustrated you or confused you?
+Days 15-21: Expand & Iterate
+If Week 3 Day 11-14 goes well, expand volume. If not, troubleshoot.
+Volume Ramp:
+	•	Days 15-17: Process 5-10 instances per day
+	•	Days 18-21: Process all instances that arise naturally
+Weekly Review Meeting (Day 17 or 18):
+Conduct 30-minute review with Hero and stakeholders:
+	•	Review metrics vs. baseline
+	•	Discuss surprises (good and bad)
+	•	Identify needed adjustments
+	•	Get Hero's honest assessment
+Week 3 Deliverables:
+	•	☐ 20+ instances processed with new tool
+	•	☐ Daily tracking data compiled
+	•	☐ Week 3 metrics vs. baseline comparison
+	•	☐ Issues log with resolutions
+	•	☐ Hero satisfaction rating
+WEEK 4: Evaluate & Decide
+Goal: Make a clear kill/pivot/scale decision based on data.
+Days 22-26: Final Testing & Data Collection
+Continue processing all instances. Focus on collecting clean data.
+Final Week Requirements:
+	•	Process minimum 30 total instances
+	•	Time at least 10 instances with stopwatch
+	•	Review all outputs for accuracy
+	•	Conduct final satisfaction survey with Hero and any other users
+Days 27-30: Decision & Documentation
+Compile results and make your decision.
+Results Compilation Template:
+Metric
+Baseline
+Pilot Result
+Average time per instance
+___ minutes
+___ minutes
+Manual steps/touches required
+___ steps
+___ steps
+Error/correction rate
+___ per 20
+___ per 20
+Team satisfaction (1-10)
+___ / 10
+___ / 10
+Total instances processed
+N/A
+___
+Failure Insurance: Kill / Pivot / Scale
+Use these decision rules to make a clear choice.
+KILL the Pilot If:
+Stop immediately and do not scale. The approach isn't working.
+	•	It adds more steps than it removes
+	•	The Hero actively hates it
+	•	Error rate increased
+	•	It requires major retraining that staff can't absorb
+	•	It disrupts care or compliance
+	•	Time savings are <15%
+	•	Team satisfaction is <5/10
+PIVOT the Pilot If:
+The workflow is right, but the solution isn't. Try a different tool.
+	•	Workflow shows clear AI potential, but this tool is clunky
+	•	Results are mixed—some things work, some don't
+	•	Team likes the concept but not the execution
+	•	A specific feature is missing that another tool might have
+	•	Integration issues that might not exist with alternatives
+SCALE the Pilot If:
+Success! Plan your rollout.
+	•	Time savings >30%
+	•	Touches reduced >50%
+	•	Error rate equal or better
+	•	Team satisfaction 7+/10
+	•	Hero says: 'I never want to go back to the old way'
+ROI Quick Calculation
+Use this formula to estimate annual value:
+Annual ROI = (Time Saved per Instance × Volume per Year × Hourly Cost) – Annual Tool Cost
+Example:
+	•	Time saved: 20 minutes per instance
+	•	Volume: 500 instances per year
+	•	Hourly cost: $35/hour
+	•	Tool cost: $500/month = $6,000/year
+ROI = (0.33 hours × 500 × $35) – $6,000 = $5,775 – $6,000 = -$225
+In this example, the tool doesn't pay for itself. Need more volume or time savings.
+Better Example:
+	•	Time saved: 45 minutes per instance
+	•	Volume: 1,000 instances per year
+	•	Hourly cost: $35/hour
+	•	Tool cost: $500/month = $6,000/year
+ROI = (0.75 hours × 1,000 × $35) – $6,000 = $26,250 – $6,000 = $20,250/year
+30-Day Pilot Final Checklist
+	•	☐ Week 1: Workflow documented with screen recording and process map
+	•	☐ Week 2: Success criteria defined and tool selected
+	•	☐ Week 3: 20+ instances processed with daily tracking
+	•	☐ Week 4: 30+ total instances, final metrics compiled
+	•	☐ Kill/Pivot/Scale decision made with supporting data
+	•	☐ ROI calculation completed
+	•	☐ Next steps documented (scale plan OR pivot plan OR lessons learned)
+Congratulations on completing your 30-Day AI Pilot!

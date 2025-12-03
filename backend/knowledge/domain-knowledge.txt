@@ -1,0 +1,1855 @@
+SENIOR LIVING DOMAIN KNOWLEDGE REFERENCE
+
+SECTION 1: KEY ROLES & THEIR PAIN POINTS
+
+ADMINISTRATOR (NHA - Nursing Home Administrator)
+Job Title & Typical Responsibilities: The Administrator is the CEO of the building. They are licensed (NHA license required in most states), accountable for everything, and report to regional/corporate leadership. They manage census, survey readiness, P&L, staffing levels, family relations, and community reputation.
+Daily Workflows:
+	•	Morning standup/huddle with department heads
+	•	Census and admissions review
+	•	Staffing level verification
+	•	Family or complaint follow-up
+	•	Financial review (AR, census trends, labor costs)
+	•	Survey readiness spot-checks
+	•	Corporate reporting and calls
+	•	Rounding on residents and staff
+	•	Vendor and contractor meetings
+Top 5 Pain Points:
+	•	Juggling too many priorities — Everything escalates to them; no protected time
+	•	Staffing crises — Call-offs, agency dependence, turnover create daily fires
+	•	Survey anxiety — Always preparing, always worried about the next citation
+	•	Corporate reporting burden — Monthly Key Factors, weekly calls, endless data requests
+	•	Census pressure — Balancing occupancy targets with appropriate admissions
+Common Time-Wasters:
+	•	Rebuilding Key Factors reports manually every month
+	•	Chasing down department heads for missing documentation
+	•	Mediating staffing conflicts
+	•	Attending meetings that could be emails
+	•	Hunting for information across systems
+Metrics They're Measured On:
+	•	Census and occupancy rate
+	•	Survey results (star rating, deficiency count)
+	•	Staff turnover rate
+	•	Financial performance (NOI, labor cost %)
+	•	Family satisfaction scores
+	•	Regulatory compliance
+What "Good" Looks Like:
+	•	Stable census at 90%+ occupancy
+	•	5-star survey rating
+	•	Turnover below 50% annually
+	•	No immediate jeopardy citations
+	•	Staff who stay and refer friends
+	•	Families who recommend the facility
+What Keeps Them Up at Night:
+	•	Surprise survey showing up tomorrow
+	•	Key staff member quitting without notice
+	•	A fall with serious injury
+	•	Census dropping below break-even
+	•	Corporate pressure they can't meet
+	•	Family going to media with a complaint
+
+DIRECTOR OF NURSING (DON)
+Job Title & Typical Responsibilities: The DON is the clinical leader of the building. They oversee all nursing staff, ensure quality of care, manage clinical compliance, and are accountable for clinical outcomes. Licensed RN required, often with management experience.
+Daily Workflows:
+	•	Morning clinical review (change in condition, incidents, new admits)
+	•	Staffing review and adjustment
+	•	Rounding on high-acuity residents
+	•	Incident investigation and follow-up
+	•	Care plan oversight
+	•	Staff performance management
+	•	Survey readiness activities
+	•	Corporate clinical calls
+	•	Physician communication
+Top 5 Pain Points:
+	•	Documentation burden — Ensuring nurses chart completely and accurately
+	•	Staffing shortages — Never enough nurses, constant call-offs
+	•	Change in condition management — Catching issues before they escalate
+	•	Survey preparation — Clinical documentation is always the focus
+	•	Balancing clinical care with administrative demands
+Common Time-Wasters:
+	•	Chasing down incomplete documentation
+	•	Manual incident tracking and follow-up
+	•	Redundant meetings
+	•	Searching for clinical information across systems
+	•	Filling in for absent staff
+Metrics They're Measured On:
+	•	Clinical quality indicators (falls, pressure ulcers, infections, rehospitalizations)
+	•	Survey deficiencies (clinical tags)
+	•	Nursing turnover
+	•	Documentation compliance rates
+	•	Incident rates and trends
+	•	Staffing ratios
+What "Good" Looks Like:
+	•	Zero immediate jeopardy citations
+	•	Quality measures at or above state averages
+	•	Stable nursing team with low turnover
+	•	Complete, timely documentation
+	•	Strong relationships with physicians
+	•	Families trust the clinical team
+What Keeps Them Up at Night:
+	•	Missing a change in condition
+	•	A preventable adverse event
+	•	Survey finding clinical gaps
+	•	Losing key clinical staff
+	•	Not having enough nurses on the floor
+	•	A family complaint about care quality
+
+ASSISTANT DIRECTOR OF NURSING (ADON)
+Job Title & Typical Responsibilities: The ADON supports the DON, often managing specific clinical areas (infection control, wound care, restorative nursing) or specific units. They are the DON's backup and often handle more day-to-day clinical operations.
+Daily Workflows:
+	•	Floor rounds and staff support
+	•	Infection control surveillance
+	•	Wound care tracking
+	•	Staff education and competency
+	•	Incident follow-up
+	•	Admission clinical reviews
+	•	Coverage coordination when short-staffed
+	•	Documentation audits
+Top 5 Pain Points:
+	•	Being pulled in too many directions — Multiple clinical specialties, plus floor coverage
+	•	Documentation audits — Manual chart reviews to catch gaps
+	•	Staff education — Never enough time for training
+	•	Infection control tracking — Manual surveillance is tedious
+	•	Covering for call-offs — Often ends up on the floor
+Common Time-Wasters:
+	•	Manual chart audits
+	•	Tracking down staff for education sign-offs
+	•	Recreating the same reports weekly
+	•	Attending meetings as DON backup
+	•	Searching for clinical protocols
+Metrics They're Measured On:
+	•	Infection rates
+	•	Wound healing rates
+	•	Staff education completion
+	•	Documentation audit scores
+	•	Clinical incident follow-through
+What "Good" Looks Like:
+	•	No infection outbreaks
+	•	Wounds healing on schedule
+	•	100% staff education compliance
+	•	Clean documentation audits
+	•	DON trusts them to handle anything
+What Keeps Them Up at Night:
+	•	Missing an infection outbreak
+	•	A wound that deteriorates
+	•	Staff making clinical errors
+	•	Being blamed for gaps they couldn't prevent
+	•	Burning out from covering too much
+
+MDS NURSE / MDS COORDINATOR
+Job Title & Typical Responsibilities: The MDS Nurse is responsible for the Minimum Data Set assessments that drive PDPM (Patient-Driven Payment Model) reimbursement. They ensure accurate, timely, and compliant assessments that capture the true clinical picture and maximize appropriate reimbursement.
+Daily Workflows:
+	•	Assessment schedule management (admission, quarterly, annual, significant change)
+	•	Clinical record review for each assessment
+	•	Coding (ICD-10, section GG, functional status)
+	•	Interdisciplinary team coordination for care planning
+	•	Transmission to CMS
+	•	Denial and appeal support
+	•	Auditing documentation to support codes
+	•	Training clinical staff on documentation requirements
+Top 5 Pain Points:
+	•	Documentation doesn't support coding — Nurses don't chart what they do
+	•	Assessment deadlines are rigid — Miss a window, lose revenue
+	•	Coding complexity — PDPM is complicated and constantly changing
+	•	Prior auth coordination — Working with managed care on authorizations
+	•	Denial appeals — Payers challenge their coding
+Common Time-Wasters:
+	•	Hunting through clinical records for supporting documentation
+	•	Re-educating nurses on documentation requirements
+	•	Manual calculation of PDPM categories
+	•	Tracking assessment schedules on spreadsheets
+	•	Researching coding guidelines
+Metrics They're Measured On:
+	•	PDPM accuracy (are codes supported by documentation?)
+	•	Timely submission (assessments transmitted on time)
+	•	CMI (Case Mix Index) — reflects acuity capture
+	•	Denial rates on coding challenges
+	•	Revenue per patient day
+What "Good" Looks Like:
+	•	Every assessment submitted on time
+	•	Documentation supports every code
+	•	CMI reflects true patient acuity
+	•	Few coding-related denials
+	•	Staff understand documentation requirements
+	•	Revenue capture is optimized
+What Keeps Them Up at Night:
+	•	Missing an assessment deadline
+	•	An audit finding unsupported codes
+	•	A payer challenging their coding
+	•	Nurses not documenting thoroughly
+	•	Being blamed for revenue shortfalls
+
+BUSINESS OFFICE MANAGER (BOM)
+Job Title & Typical Responsibilities: The BOM manages all financial operations for the building: billing, accounts receivable, collections, Medicaid applications, insurance verification, census management, and vendor payments. They are the financial heartbeat of the facility.
+Daily Workflows:
+	•	Census reconciliation
+	•	Insurance verification for new admissions
+	•	Prior authorization tracking and submission
+	•	Billing and claims submission
+	•	Denial management and appeals
+	•	Medicaid application assistance
+	•	Collections follow-up
+	•	Month-end close activities
+	•	Vendor payment processing
+	•	Financial reporting
+Top 5 Pain Points:
+	•	Prior authorization management — Endless calls, faxes, portals, tracking
+	•	Denial management — Payers deny claims; appeals are time-consuming
+	•	Insurance verification complexity — Every payer has different rules
+	•	Month-end close pressure — Too many manual reconciliations
+	•	Medicaid applications — Complex, slow, require constant follow-up
+Common Time-Wasters:
+	•	Calling payers to verify benefits (on hold for 30+ minutes)
+	•	Manual tracking of prior auth dates and renewals
+	•	Researching payer-specific rules
+	•	Chasing down clinical documentation for appeals
+	•	Reconciling data across billing and EHR systems
+Metrics They're Measured On:
+	•	Days in AR (accounts receivable)
+	•	Denial rate
+	•	Collection rate
+	•	Prior auth approval rate
+	•	Medicaid conversion rate
+	•	Month-end close timeliness
+What "Good" Looks Like:
+	•	AR under 35 days
+	•	Denial rate below 5%
+	•	98%+ collection rate
+	•	Prior auths approved and tracked without surprises
+	•	Medicaid applications processed smoothly
+	•	Month-end close completed by day 3
+What Keeps Them Up at Night:
+	•	A prior auth expiring without renewal
+	•	A large claim being denied
+	•	AR aging out of collectability
+	•	Medicaid application delays leaving days unbilled
+	•	Being the only one who knows the billing rules
+
+SCHEDULER / STAFFING COORDINATOR
+Job Title & Typical Responsibilities: The Scheduler manages the staffing matrix, handles call-offs, fills open shifts, manages agency relationships, and ensures the building meets staffing ratios. They are often the most texted person in the building.
+Daily Workflows:
+	•	Building and maintaining the master schedule
+	•	Handling call-offs (often 10-20+ per day)
+	•	Finding coverage through internal staff, overtime, or agency
+	•	Managing agency relationships and orders
+	•	Tracking overtime and labor costs
+	•	Communicating schedule changes to staff
+	•	Onboarding new staff to the schedule
+	•	Reporting staffing levels to leadership
+Top 5 Pain Points:
+	•	Call-off chaos — Never-ending texts and calls to fill shifts
+	•	Agency dependence — Expensive, inconsistent quality, last resort
+	•	Manual scheduling — Spreadsheets, texts, phone calls
+	•	Staff preferences — Everyone wants specific shifts; can't please everyone
+	•	Burnout — This role is exhausting and thankless
+Common Time-Wasters:
+	•	Texting 15 people to fill one shift
+	•	Calling agency after agency to find coverage
+	•	Manually updating schedule changes
+	•	Tracking who said yes/no to shifts
+	•	Reconciling hours for payroll
+Metrics They're Measured On:
+	•	Shifts filled vs. open
+	•	Agency hours as % of total
+	•	Overtime costs
+	•	Staffing ratio compliance
+	•	Call-off rate
+	•	Staff satisfaction with scheduling
+What "Good" Looks Like:
+	•	Minimal open shifts
+	•	Agency under 10% of hours
+	•	Overtime controlled
+	•	Staff happy with their schedules
+	•	Calm, controlled response to call-offs
+	•	Proactive scheduling, not reactive firefighting
+What Keeps Them Up at Night:
+	•	A 3 AM call-off with no coverage
+	•	Running out of agency options
+	•	Staff quitting because of scheduling issues
+	•	Being blamed for overtime they couldn't prevent
+	•	Never being off-duty (always on their phone)
+
+ADMISSIONS COORDINATOR
+Job Title & Typical Responsibilities: The Admissions Coordinator manages the intake process: receiving referrals, qualifying patients, coordinating tours, verifying insurance, preparing admission packets, and converting referrals to admissions. They are the front door to census.
+Daily Workflows:
+	•	Reviewing incoming referrals (from hospitals, discharge planners, families)
+	•	Qualifying patients (can we care for them? is insurance viable?)
+	•	Coordinating with clinical team on clinical appropriateness
+	•	Scheduling and conducting tours
+	•	Insurance verification
+	•	Preparing admission packets
+	•	Communicating with families
+	•	Tracking referral sources and conversion
+Top 5 Pain Points:
+	•	After-hours referrals — Referrals come 24/7; response time matters
+	•	Admission packet complexity — Hundreds of pages per admission
+	•	Insurance verification — Time-consuming, critical to get right
+	•	Qualification speed — Hospitals want fast answers; clinical review takes time
+	•	Conversion pressure — Every lost admission is lost revenue
+Common Time-Wasters:
+	•	Reviewing 300-page referral packets manually
+	•	Waiting on clinical team for qualification decisions
+	•	Insurance verification calls (hold times)
+	•	Manual preparation of admission paperwork
+	•	Following up on pending referrals
+Metrics They're Measured On:
+	•	Referral response time
+	•	Referral-to-admission conversion rate
+	•	Census contribution
+	•	Referral source relationships
+	•	Insurance verification accuracy
+	•	Admission packet completeness
+What "Good" Looks Like:
+	•	Response to referrals within 2 hours
+	•	80%+ conversion rate on qualified referrals
+	•	Strong relationships with discharge planners
+	•	Smooth admission process (no surprises)
+	•	Insurance verified before admission
+	•	Families feel welcomed
+What Keeps Them Up at Night:
+	•	Missing a referral on a weekend
+	•	A bad admission (patient too acute, insurance issues)
+	•	Losing referrals to competitors
+	•	Being blamed for census decline
+	•	Discharge planners stopping referrals
+
+SOCIAL SERVICES DIRECTOR
+Job Title & Typical Responsibilities: The Social Services Director manages resident and family psychosocial needs, discharge planning, care transitions, grievances, and social documentation. They are the bridge between clinical care and family/resident wellbeing.
+Daily Workflows:
+	•	Resident and family counseling
+	•	Discharge planning and coordination
+	•	Care conference facilitation
+	•	Advance directive discussions
+	•	Grievance investigation and resolution
+	•	Social services documentation
+	•	Community resource coordination
+	•	Medicaid application support
+Top 5 Pain Points:
+	•	Discharge planning complexity — Finding appropriate placements is hard
+	•	Family dynamics — Managing difficult family situations
+	•	Documentation requirements — Extensive social services documentation for survey
+	•	Grievance management — Every complaint requires follow-up
+	•	Resource limitations — Can't always get residents what they need
+Common Time-Wasters:
+	•	Searching for community resources
+	•	Coordinating with multiple external providers
+	•	Documentation catch-up
+	•	Phone tag with families
+	•	Researching Medicaid rules
+Metrics They're Measured On:
+	•	Discharge success rate (appropriate placements)
+	•	Grievance resolution time
+	•	Documentation compliance
+	•	Care conference completion
+	•	Resident/family satisfaction
+What "Good" Looks Like:
+	•	Smooth discharges to appropriate settings
+	•	Families feel heard and supported
+	•	Grievances resolved quickly
+	•	Complete, timely documentation
+	•	Strong community resource network
+What Keeps Them Up at Night:
+	•	A resident with nowhere to go
+	•	A family threatening legal action
+	•	Missing required documentation for survey
+	•	Burnout from emotional labor
+	•	Not having answers for families
+
+THERAPY DIRECTOR / COORDINATOR
+Job Title & Typical Responsibilities: The Therapy Director oversees PT, OT, and SLP services—either through in-house staff or a contract therapy company. They manage therapy schedules, ensure appropriate treatment, coordinate with nursing on functional status, and support PDPM accuracy.
+Daily Workflows:
+	•	Therapy scheduling and productivity management
+	•	Clinical oversight of treatment plans
+	•	Coordination with nursing on functional status
+	•	Section GG accuracy for MDS
+	•	Therapy documentation review
+	•	Part B billing oversight (if applicable)
+	•	Staff education and competency
+	•	Family communication on therapy progress
+Top 5 Pain Points:
+	•	Productivity pressure — Contract companies push for high productivity; quality can suffer
+	•	Section GG accuracy — Functional status scoring affects PDPM
+	•	Part B billing complexity — Medicare B rules are intricate
+	•	Coordination with nursing — Functional status observations need to match
+	•	Therapy-to-nursing handoff — Restorative nursing doesn't always continue gains
+Common Time-Wasters:
+	•	Manual tracking of therapy minutes and productivity
+	•	Reconciling therapy documentation with nursing notes
+	•	Part B billing research
+	•	Chasing down missed therapy sessions
+	•	Reporting to corporate on therapy outcomes
+Metrics They're Measured On:
+	•	Therapy minutes per patient
+	•	Productivity percentages
+	•	Functional outcome improvements
+	•	Part B revenue (if in-house)
+	•	Section GG accuracy
+	•	Rehospitalization rates (therapy contribution)
+What "Good" Looks Like:
+	•	Patients improving functionally
+	•	Section GG accurately reflects status
+	•	Therapy and nursing documentation aligned
+	•	Part B revenue optimized (if applicable)
+	•	Smooth transitions to restorative
+What Keeps Them Up at Night:
+	•	A therapy company prioritizing productivity over quality
+	•	Functional gains not maintained after therapy ends
+	•	Part B billing denials
+	•	Survey findings related to therapy
+	•	Patients not progressing
+
+DIETARY MANAGER
+Job Title & Typical Responsibilities: The Dietary Manager oversees food service operations, therapeutic diets, dietary compliance, kitchen staff, and food safety. They ensure residents receive appropriate nutrition safely and appetizingly.
+Daily Workflows:
+	•	Menu planning and preparation oversight
+	•	Therapeutic diet management
+	•	Food safety and sanitation compliance
+	•	Kitchen staff scheduling and management
+	•	Nutrition documentation
+	•	Weight and nutrition tracking
+	•	Family and resident food preferences
+	•	Vendor management (food suppliers)
+Top 5 Pain Points:
+	•	Therapeutic diet complexity — Multiple diet orders, frequent changes
+	•	Kitchen staffing — High turnover, hard to find good cooks
+	•	Survey scrutiny — Dietary is always surveyed
+	•	Resident satisfaction — Food complaints are constant
+	•	Food cost management — Balancing quality with budget
+Common Time-Wasters:
+	•	Manual diet order tracking
+	•	Updating tray cards and menus
+	•	Investigating food complaints
+	•	Training new kitchen staff
+	•	Inventory management
+Metrics They're Measured On:
+	•	Dietary survey deficiencies
+	•	Resident food satisfaction scores
+	•	Food cost per day
+	•	Weight/nutrition outcomes
+	•	Diet order accuracy
+What "Good" Looks Like:
+	•	Zero dietary survey tags
+	•	High resident food satisfaction
+	•	Food costs within budget
+	•	All therapeutic diets accurate
+	•	Stable kitchen team
+What Keeps Them Up at Night:
+	•	A foodborne illness outbreak
+	•	Survey finding dietary issues
+	•	Running out of key supplies
+	•	Kitchen staff no-shows
+	•	Families complaining about food
+
+ACTIVITIES DIRECTOR
+Job Title & Typical Responsibilities: The Activities Director plans and implements recreational and therapeutic activities that enhance resident quality of life. They manage the activities calendar, individual activity preferences, and activities documentation.
+Daily Workflows:
+	•	Leading group and individual activities
+	•	Activity calendar planning
+	•	Individual resident activity preferences
+	•	Activities documentation (participation, engagement)
+	•	Community volunteer coordination
+	•	Special event planning
+	•	Family engagement activities
+	•	Survey readiness for activities
+Top 5 Pain Points:
+	•	Documentation burden — Must document individual participation and preferences
+	•	Engaging cognitively impaired residents — Dementia programming is specialized
+	•	Limited resources — Small budgets, limited staff
+	•	Survey expectations — Activities must be individualized
+	•	Family expectations — Families want constant engagement
+Common Time-Wasters:
+	•	Manual activity documentation
+	•	Creating monthly calendars
+	•	Tracking individual preferences across residents
+	•	Coordinating with volunteers
+	•	Reporting on participation metrics
+Metrics They're Measured On:
+	•	Resident participation rates
+	•	Survey deficiencies (activities)
+	•	Activity variety and individualization
+	•	Family satisfaction with activities
+	•	Special event quality
+What "Good" Looks Like:
+	•	High resident participation
+	•	Individualized activity plans
+	•	No survey deficiencies
+	•	Families praise activities
+	•	Engaged, happy residents
+What Keeps Them Up at Night:
+	•	A resident with no meaningful activities
+	•	Survey finding inadequate programming
+	•	Not enough staff to run activities
+	•	Families complaining about their loved one being "bored"
+	•	Burnout from being expected to do everything alone
+
+REGIONAL / CORPORATE ROLES
+Common Regional/Corporate Positions:
+	•	Regional Director of Operations (RDO)
+	•	Regional Clinical Consultant / Vice President of Clinical Services
+	•	Regional BOM / VP of Revenue Cycle
+	•	VP of Quality
+	•	Corporate Director of Staffing
+	•	CFO / VP of Finance
+	•	CEO / COO
+Typical Responsibilities:
+	•	Oversight of multiple facilities (typically 5-15 per region)
+	•	Performance management and benchmarking
+	•	Resource allocation across buildings
+	•	Crisis management and escalation
+	•	Best practice dissemination
+	•	Vendor and contract negotiations
+	•	Regulatory strategy
+	•	Capital planning
+Top 5 Pain Points:
+	•	Visibility across facilities — Can't see what's happening in every building
+	•	Inconsistent performance — Some buildings excel, others struggle
+	•	Data aggregation — Pulling reports from multiple systems is manual
+	•	Talent management — Finding and keeping good administrators
+	•	Balancing support with accountability — When to help vs. when to hold accountable
+Common Time-Wasters:
+	•	Manual data collection from facilities
+	•	Driving between buildings
+	•	Putting out fires at struggling buildings
+	•	Recreating the same analysis for different audiences
+	•	Vendor management across the portfolio
+Metrics They're Measured On:
+	•	Portfolio occupancy and census
+	•	Overall financial performance
+	•	Survey results across buildings
+	•	Turnover rates
+	•	Quality metrics
+	•	Compliance status
+What "Good" Looks Like:
+	•	All buildings performing at or above benchmarks
+	•	No survey crises
+	•	Strong administrator pipeline
+	•	Proactive, not reactive, management
+	•	Corporate trusts them to handle the region
+What Keeps Them Up at Night:
+	•	A building in crisis they didn't see coming
+	•	Survey results that damage reputation
+	•	Losing a strong administrator
+	•	Not having bandwidth to support all buildings
+	•	Being blamed for portfolio performance
+
+SECTION 2: COMMON WORKFLOWS
+
+PRIOR AUTHORIZATION (MANAGED CARE)
+What It Is: The process of obtaining approval from a managed care payer (Medicare Advantage, Medicaid managed care, commercial payers) to continue skilled nursing care beyond an initial period. Requires clinical justification.
+Who Owns It: BOM or designated prior auth specialist, with clinical input from DON/MDS Nurse
+Typical Process Steps:
+	•	Identify patients with managed care requiring prior auth
+	•	Determine payer-specific requirements (varies significantly)
+	•	Gather clinical documentation (notes, assessments, therapy records)
+	•	Write clinical narrative justifying continued stay
+	•	Submit via portal, fax, or phone (payer-dependent)
+	•	Track submission and response
+	•	Respond to requests for additional information
+	•	Manage approval dates and renewal timelines
+	•	Appeal denials
+Systems Involved:
+	•	EHR (PointClickCare, MatrixCare) for clinical documentation
+	•	Payer portals (Availity, NaviHealth, each payer has their own)
+	•	Fax
+	•	Phone
+	•	Spreadsheets or tracking systems for management
+Time Required:
+	•	Initial auth: 30-60 minutes
+	•	Concurrent reviews: 20-30 minutes
+	•	Appeals: 1-3 hours
+Frequency:
+	•	Daily for facilities with significant managed care census
+	•	Each managed care patient may require weekly reviews
+Common Friction Points:
+	•	Payer portals are slow and unintuitive
+	•	Each payer has different rules and formats
+	•	Clinical documentation doesn't support the narrative
+	•	Hold times on payer phone lines
+	•	Tracking renewals manually
+	•	Missing deadlines resulting in denied days
+Error Rates:
+	•	10-20% initial denial rate is common
+	•	Missed renewals can result in 100% loss for those days
+Why It Matters:
+	•	Revenue: Denied days = lost revenue
+	•	Cash flow: Delays in authorization delay payment
+	•	Compliance: Must have authorization before providing care
+	•	Staff burden: One of the most hated tasks in the building
+
+PDPM CODING & SUBMISSION
+What It Is: Patient-Driven Payment Model coding determines Medicare Part A reimbursement based on patient characteristics captured in the MDS assessment. Accurate coding = accurate reimbursement.
+Who Owns It: MDS Nurse / MDS Coordinator
+Typical Process Steps:
+	•	Complete MDS assessment within required timeframe
+	•	Review clinical documentation for supporting evidence
+	•	Code Section GG (functional status)
+	•	Code clinical categories (NTA, nursing, PT, OT, SLP)
+	•	Assign ICD-10 codes
+	•	Validate coding accuracy
+	•	Transmit to CMS
+	•	Monitor for validation errors
+	•	Respond to any audit or challenge
+Systems Involved:
+	•	EHR MDS module
+	•	CMS QIES ASAP submission system
+	•	Clinical documentation in EHR
+	•	Coding references and calculators
+Time Required:
+	•	2-4 hours per assessment (varies by complexity)
+Frequency:
+	•	Every admission (5-day assessment)
+	•	Every 14 days for Medicare Part A patients
+	•	Quarterly and annual for long-term residents
+	•	With any significant change in condition
+Common Friction Points:
+	•	Documentation doesn't support codes
+	•	Nurses don't document what they do
+	•	Section GG scoring requires therapy/nursing alignment
+	•	Complex ICD-10 coding rules
+	•	Tight submission deadlines
+	•	Keeping up with rule changes
+Error Rates:
+	•	Industry studies suggest 20-30% of assessments have coding issues
+	•	Unsupported codes can be challenged on audit
+Why It Matters:
+	•	Revenue: PDPM directly determines daily reimbursement rate
+	•	Compliance: Unsupported codes = audit risk
+	•	Accuracy: Over-coding risks fraud; under-coding loses revenue
+
+PART B BILLING
+What It Is: Medicare Part B covers outpatient services—commonly therapy (PT, OT, SLP) and physician services for long-term care residents. Requires separate billing from Part A.
+Who Owns It: BOM (often with therapy company involvement for therapy Part B)
+Typical Process Steps:
+	•	Identify Part B-eligible services
+	•	Verify beneficiary eligibility
+	•	Gather therapy documentation with appropriate CPT codes
+	•	Ensure medical necessity documentation
+	•	Submit claims to Medicare
+	•	Track claim status
+	•	Manage denials and appeals
+Systems Involved:
+	•	Billing system
+	•	Therapy documentation system
+	•	Medicare Administrative Contractor (MAC) portal
+	•	EHR for clinical documentation
+Time Required:
+	•	10-20 minutes per claim
+	•	Denials: 1-2 hours to appeal
+Frequency:
+	•	Weekly or monthly claim batches
+	•	Ongoing for long-term residents receiving therapy
+Common Friction Points:
+	•	Therapy documentation doesn't meet billing requirements
+	•	Eligibility issues (Medicare Advantage confusion)
+	•	NCCI edits and bundling rules
+	•	Medical necessity denials
+	•	Keeping up with MAC-specific rules
+Error Rates:
+	•	5-10% denial rate is typical
+	•	Higher for facilities not experienced with Part B
+Why It Matters:
+	•	Revenue: Part B is often $2M+ annually for skilled facilities
+	•	Many facilities outsource at significant cost
+	•	Bringing in-house can save 90% of outsourced fees
+
+ADMISSION PACKET PROCESSING
+What It Is: Reviewing incoming referral packets (often 100-400 pages) to determine if a patient is clinically appropriate and financially viable for admission.
+Who Owns It: Admissions Coordinator (clinical review by DON/ADON)
+Typical Process Steps:
+	•	Receive referral (via fax, portal, email)
+	•	Initial review for basic information
+	•	Clinical review for appropriateness (can we care for this patient?)
+	•	Insurance verification
+	•	Prior authorization check (if managed care)
+	•	Decision to accept/decline
+	•	Communicate decision to referral source
+	•	If accepted, prepare admission paperwork
+	•	Coordinate admission timing
+Systems Involved:
+	•	Referral portals (Navihealth, hospital-specific)
+	•	Fax
+	•	EHR for clinical history
+	•	Insurance verification systems
+	•	Admission paperwork systems
+Time Required:
+	•	45-90 minutes per admission
+	•	Faster for straightforward cases; longer for complex
+Frequency:
+	•	Multiple times daily during active admission periods
+	•	24/7 for referrals (though response may lag on weekends)
+Common Friction Points:
+	•	Packet is 300 pages with no organization
+	•	Finding specific information (diagnoses, meds, function)
+	•	Waiting for clinical approval
+	•	Insurance verification delays
+	•	After-hours referrals with no coverage
+	•	Competing with other facilities for the same referral
+Error Rates:
+	•	Inappropriate admissions can result in rapid discharge or transfer
+	•	Insurance verification errors create billing nightmares
+Why It Matters:
+	•	Census: Every admission affects census
+	•	Revenue: Quick response wins referrals
+	•	Risk: Bad admissions create clinical and financial problems
+	•	Relationships: Discharge planners remember slow or unreliable facilities
+
+SCHEDULE MANAGEMENT & CALL-OFF COVERAGE
+What It Is: Creating, maintaining, and adjusting staff schedules, with particular focus on managing call-offs (staff not showing up for scheduled shifts).
+Who Owns It: Scheduler / Staffing Coordinator (with DON oversight)
+Typical Process Steps:
+	•	Build master schedule (usually 2-4 weeks out)
+	•	Receive call-off notification
+	•	Calculate coverage need (can we operate short? is agency needed?)
+	•	Reach out to internal staff for coverage (texts, calls)
+	•	If no internal coverage, contact agency
+	•	Confirm coverage and update schedule
+	•	Communicate changes to affected staff
+	•	Track overtime and agency usage
+Systems Involved:
+	•	Scheduling software (often basic or spreadsheet-based)
+	•	Text messaging (personal phone)
+	•	Agency portals or phone
+	•	Payroll system for hours tracking
+Time Required:
+	•	Each call-off: 10-30 minutes to resolve
+	•	15+ call-offs/day = 2.5+ hours just on call-offs
+Frequency:
+	•	Daily (often multiple times)
+	•	Higher on weekends, holidays, summer months
+Common Friction Points:
+	•	Texting 15 people to fill one shift
+	•	Staff don't respond
+	•	Agency has no availability
+	•	Last-minute call-offs (within 2 hours of shift)
+	•	No visibility into who's available
+	•	Overtime adds up quickly
+Error Rates:
+	•	Unfilled shifts create compliance risk
+	•	Scheduling errors create staff dissatisfaction
+Why It Matters:
+	•	Compliance: Must meet staffing ratios
+	•	Cost: Agency is 100-200% markup
+	•	Morale: Overworked staff burn out and quit
+	•	Safety: Short staffing affects resident care
+
+DENIAL APPEALS
+What It Is: When a payer denies payment for a claim (Part A, managed care, or Part B), the facility must appeal with additional documentation to recover the revenue.
+Who Owns It: BOM (with clinical input for clinical denials)
+Typical Process Steps:
+	•	Receive denial notification
+	•	Identify denial reason
+	•	Gather supporting documentation
+	•	Write appeal narrative
+	•	Submit appeal within deadline
+	•	Track appeal status
+	•	Respond to additional requests
+	•	Escalate if needed (second-level appeal, external review)
+Systems Involved:
+	•	Billing system
+	•	EHR for clinical documentation
+	•	Payer portals
+	•	Appeal tracking (often spreadsheet)
+Time Required:
+	•	1-3 hours per appeal
+Frequency:
+	•	Weekly or more for facilities with significant denials
+Common Friction Points:
+	•	Finding documentation that was missing originally
+	•	Understanding denial reasons
+	•	Meeting appeal deadlines
+	•	Each payer has different appeal processes
+	•	Tracking where each appeal stands
+Error Rates:
+	•	40-60% of appeals are successful (varies by denial type)
+	•	Missed deadlines = 0% success
+Why It Matters:
+	•	Revenue: Denials can be 5-10% of potential revenue
+	•	Cash flow: Appeals delay payment
+	•	Staff burden: Appeals are time-consuming and frustrating
+
+SURVEY PREPARATION
+What It Is: Continuous readiness for state/CMS survey inspection, including mock surveys, documentation review, environment checks, and staff education.
+Who Owns It: Administrator (with all department heads contributing)
+Typical Process Steps:
+	•	Maintain daily survey readiness mindset
+	•	Conduct regular mock surveys
+	•	Review high-risk areas (falls, pressure ulcers, infections)
+	•	Audit documentation completeness
+	•	Ensure environment is survey-ready (cleanliness, safety)
+	•	Educate staff on survey expectations
+	•	Review previous deficiencies and ensure correction
+	•	When survey arrives: manage the process, provide documentation
+Systems Involved:
+	•	EHR for clinical documentation
+	•	Quality metrics dashboards
+	•	Survey tracking systems
+	•	Regulatory reference systems
+Time Required:
+	•	Ongoing (embedded in daily operations)
+	•	Intensive during actual survey (3-10 days)
+Frequency:
+	•	Continuous
+	•	Surveys typically annually (can be more frequent if issues)
+Common Friction Points:
+	•	Finding documentation quickly during survey
+	•	Staff anxiety affecting performance
+	•	Inconsistent documentation practices
+	•	Environment issues discovered during survey
+	•	Keeping up with regulatory changes
+Error Rates:
+	•	Average SNF receives 7-8 deficiencies per survey
+	•	Some facilities get zero; others get 20+
+Why It Matters:
+	•	Star Rating: Deficiencies affect public ratings
+	•	Compliance: Serious deficiencies can lead to penalties
+	•	Reputation: Survey results are public
+	•	Revenue: Poor ratings affect referrals
+
+MONTH-END CLOSE
+What It Is: The financial close process at the end of each month, including census reconciliation, billing finalization, AR review, and financial reporting.
+Who Owns It: BOM (with Administrator oversight and corporate involvement)
+Typical Process Steps:
+	•	Reconcile census for the month
+	•	Finalize all billing
+	•	Review AR aging
+	•	Identify and resolve discrepancies
+	•	Prepare financial reports
+	•	Submit to corporate
+	•	Explain variances
+Systems Involved:
+	•	Billing system
+	•	General ledger
+	•	Spreadsheets (often heavy)
+	•	Corporate reporting systems
+Time Required:
+	•	8-20 hours (varies by facility complexity)
+Frequency:
+	•	Monthly
+Common Friction Points:
+	•	Data doesn't match between systems
+	•	Manual reconciliation of census
+	•	Chasing down missing documentation
+	•	Last-minute billing corrections
+	•	Corporate deadlines
+Error Rates:
+	•	Reconciliation errors can misstate financial position
+	•	Missed charges are lost revenue
+Why It Matters:
+	•	Financial accuracy: Leadership decisions based on this data
+	•	Corporate reporting: Must meet deadlines
+	•	AR management: Catch issues before they age out
+	•	Budgeting: Actual vs. budget analysis
+
+KEY FACTORS REPORTING
+What It Is: Monthly operational and financial reporting typically required by corporate, summarizing key metrics (census, AR, quality, staffing, etc.).
+Who Owns It: Administrator (with department head input)
+Typical Process Steps:
+	•	Gather data from multiple sources
+	•	Compile into standard Key Factors format
+	•	Calculate metrics and trends
+	•	Add commentary on variances
+	•	Submit to corporate
+	•	Present on regional calls
+Systems Involved:
+	•	EHR for clinical data
+	•	Billing system for financial data
+	•	Staffing system for labor data
+	•	Spreadsheets (often the final format)
+Time Required:
+	•	2-4 hours per month per administrator
+Frequency:
+	•	Monthly
+Common Friction Points:
+	•	Data in multiple systems
+	•	Manual compilation in Excel
+	•	Ensuring accuracy across sources
+	•	Meeting corporate deadlines
+	•	Explaining variances
+Error Rates:
+	•	Data errors create credibility issues
+	•	Inconsistent calculations across facilities
+Why It Matters:
+	•	Visibility: Corporate decisions based on this
+	•	Accountability: Administrators measured on these metrics
+	•	Benchmarking: Compare to other facilities
+
+INSURANCE VERIFICATION
+What It Is: Confirming patient insurance coverage and benefits before or during admission to ensure the facility will be paid for services.
+Who Owns It: Admissions Coordinator or BOM
+Typical Process Steps:
+	•	Gather patient insurance information
+	•	Verify coverage via payer portal or phone
+	•	Determine benefit levels (SNF days remaining, copays)
+	•	Identify prior auth requirements
+	•	Document verification
+	•	Communicate financial expectations to family
+Systems Involved:
+	•	Payer portals (many different ones)
+	•	Phone (for verification)
+	•	Eligibility verification services
+	•	Admission documentation
+Time Required:
+	•	10-30 minutes per patient (highly variable)
+Frequency:
+	•	Every admission
+	•	Periodic re-verification for long-term residents
+Common Friction Points:
+	•	Hold times on payer calls
+	•	Multiple payers, multiple portals
+	•	Information not matching what patient/family reported
+	•	Medicare Advantage complexity
+	•	Medicaid pending status
+Error Rates:
+	•	Verification errors lead to billing surprises
+	•	Missed eligibility = unpaid services
+Why It Matters:
+	•	Revenue: Must verify before providing services
+	•	Compliance: Billing without valid coverage is problematic
+	•	Family experience: Avoid surprise bills
+	•	Risk: Uninsured or under-insured admissions
+
+CARE PLANNING
+What It Is: The interdisciplinary process of developing and updating individualized care plans for each resident based on assessment, preferences, and clinical needs.
+Who Owns It: MDS Nurse (coordinates), with all disciplines contributing
+Typical Process Steps:
+	•	Complete assessments (MDS, departmental assessments)
+	•	Identify problems and needs
+	•	Develop individualized goals
+	•	Define interventions for each discipline
+	•	Conduct care plan meeting with IDT
+	•	Involve resident/family
+	•	Document care plan
+	•	Update care plan with changes
+Systems Involved:
+	•	EHR care plan module
+	•	MDS assessment
+	•	Departmental assessments
+Time Required:
+	•	Initial care plan: 2-4 hours (across disciplines)
+	•	Updates: 30-60 minutes
+Frequency:
+	•	Every admission
+	•	Quarterly or with significant change
+Common Friction Points:
+	•	Getting all disciplines to the meeting
+	•	Translating assessment to actionable care plan
+	•	Family involvement logistics
+	•	Keeping care plan current with changes
+	•	Documentation burden
+Error Rates:
+	•	Care plan survey deficiencies are common
+	•	Care plans often don't reflect actual care provided
+Why It Matters:
+	•	Compliance: Care plans are surveyed closely
+	•	Quality: Good care planning improves outcomes
+	•	Person-centered care: Regulatory expectation
+	•	Coordination: Ensures all disciplines aligned
+
+FAMILY COMMUNICATION
+What It Is: Keeping families informed about their loved one's condition, care, and status—including routine updates, incident notification, care conferences, and responding to inquiries.
+Who Owns It: Varies by situation: DON for clinical, Social Services for psychosocial, Administrator for escalations
+Typical Process Steps:
+	•	Routine updates (per family preference)
+	•	Incident notification (per policy and severity)
+	•	Care conference invitations and facilitation
+	•	Response to inquiries (phone, email, in-person)
+	•	Documentation of communications
+Systems Involved:
+	•	Phone
+	•	Email
+	•	EHR documentation
+	•	Family portal (if available)
+Time Required:
+	•	Highly variable
+	•	Families requiring intensive communication can consume hours daily
+Frequency:
+	•	Ongoing
+	•	Peaks with changes in condition
+Common Friction Points:
+	•	Phone tag with family members
+	•	Different family members wanting different information
+	•	Managing expectations
+	•	Documenting all communications
+	•	After-hours calls
+	•	Language barriers
+Error Rates:
+	•	Communication failures are a top complaint source
+	•	Missed incident notifications create serious issues
+Why It Matters:
+	•	Satisfaction: Family satisfaction scores
+	•	Compliance: Incident notification requirements
+	•	Risk management: Good communication prevents complaints
+	•	Trust: Families who trust staff are less likely to complain
+
+SECTION 3: INDUSTRY TERMINOLOGY
+Facility Types
+Term
+Definition
+SNF
+Skilled Nursing Facility — provides 24/7 nursing care, typically post-acute rehabilitation or long-term care
+ALF
+Assisted Living Facility — residential care with assistance with ADLs but not skilled nursing
+IL
+Independent Living — senior housing with minimal services
+MC
+Memory Care — specialized unit or community for dementia residents
+CCRC
+Continuing Care Retirement Community — offers IL, ALF, and SNF on one campus
+Post-Acute
+Short-term care after hospitalization, focused on rehabilitation and discharge home
+Long-Term Care (LTC)
+Extended care for residents who cannot live independently
+Subacute
+Higher-acuity short-stay care (ventilators, complex wounds, etc.)
+Payment & Reimbursement
+Term
+Definition
+PDPM
+Patient-Driven Payment Model — Medicare Part A reimbursement methodology based on patient characteristics
+RUG
+Resource Utilization Group — older Medicare payment methodology (replaced by PDPM)
+CMI
+Case Mix Index — measure of patient acuity/complexity, affects reimbursement
+Part A
+Medicare Part A — covers SNF stays (first 100 days after qualifying hospital stay)
+Part B
+Medicare Part B — covers outpatient services (therapy, physician visits)
+Medicare Advantage (MA)
+Private Medicare plans (HMO/PPO) — different rules than traditional Medicare
+Medicaid
+State/federal program covering long-term care for eligible individuals
+PPD
+Per Patient Day — revenue or cost calculated per resident per day
+CMM
+Coinsurance, Medicare, Managed — categories of payer mix
+Payer Mix
+Distribution of residents by insurance type
+Daily Rate
+Negotiated rate per day with a payer
+Retro Review
+Retrospective review of a stay by payer (can result in recoupment)
+Clinical & Assessment
+Term
+Definition
+MDS
+Minimum Data Set — standardized assessment required for all SNF residents
+RAI
+Resident Assessment Instrument — the overall assessment framework including MDS
+Assessment Windows
+Required timeframes for MDS completion (5-day, 14-day, 30-day, etc.)
+Section GG
+MDS section capturing functional status (critical for PDPM)
+ADL
+Activities of Daily Living — eating, bathing, dressing, toileting, transferring
+IADL
+Instrumental Activities of Daily Living — cooking, cleaning, managing finances
+NTA
+Non-Therapy Ancillary — component of PDPM for medications, treatments
+Change in Condition
+Significant change in resident status requiring reassessment
+IDT
+Interdisciplinary Team — all disciplines involved in care (nursing, therapy, social services, dietary, activities)
+Care Plan
+Individualized plan for each resident's care
+Fall
+Unintentional coming to rest on floor/ground — major quality indicator
+Pressure Injury
+Skin breakdown from pressure (formerly "pressure ulcer" or "bedsore")
+Billing & Authorization
+Term
+Definition
+Prior Auth
+Prior Authorization — advance approval required by payer before/during care
+Concurrent Review
+Ongoing review of medical necessity during stay
+Denial
+Payer refusing to pay for services
+Appeal
+Process of challenging a denial
+ADR
+Additional Documentation Request — payer request for more information
+Retro Auth
+Retroactive authorization (often after denial)
+Days Pending
+Days of care awaiting authorization or payment
+RAC
+Recovery Audit Contractor — Medicare audits for overpayments
+UB-04
+Universal Billing form used for institutional claims
+EOB
+Explanation of Benefits — statement from payer
+Remittance
+Payment statement from payer
+Staffing
+Term
+Definition
+CNA
+Certified Nursing Assistant — provides direct care under nurse supervision
+LPN/LVN
+Licensed Practical/Vocational Nurse — provides nursing care under RN supervision
+RN
+Registered Nurse — licensed nurse with full scope of practice
+NP
+Nurse Practitioner — advanced practice nurse
+Agency
+Temporary staffing companies providing nurses/CNAs
+Registry
+Another term for agency staffing
+PRN
+Pro Re Nata (as needed) — staff who work non-scheduled shifts
+Per Diem
+Staff paid by the day, not regular employees
+Call-Off
+Staff member not showing up for scheduled shift
+Float
+Staff who works in multiple units
+Staffing Ratio
+Required staff-to-resident ratio (mandated in most states)
+PPD Hours
+Staff hours per patient day
+Turnover
+Rate at which staff leave and are replaced
+Survey & Compliance
+Term
+Definition
+Survey
+State/CMS inspection of facility compliance
+Annual Survey
+Regular comprehensive survey (typically yearly)
+Complaint Survey
+Survey triggered by a complaint
+F-Tag
+Federal tag number identifying a specific regulation
+Deficiency
+Survey finding of non-compliance
+Scope and Severity
+Rating of how serious a deficiency is
+Immediate Jeopardy (IJ)
+Most serious deficiency — immediate risk to residents
+Plan of Correction (POC)
+Required response to deficiencies
+CMS
+Centers for Medicare & Medicaid Services — federal agency
+State Survey Agency
+State agency conducting surveys on behalf of CMS
+QAPI
+Quality Assurance and Performance Improvement — required quality program
+PIP
+Performance Improvement Project
+Star Rating
+CMS 5-star quality rating system
+Financial
+Term
+Definition
+Census
+Number of residents in the facility
+Occupancy
+Census as percentage of total beds
+AR
+Accounts Receivable — money owed to the facility
+Days in AR
+Average age of outstanding receivables
+NOI
+Net Operating Income
+Labor Cost %
+Labor as percentage of revenue
+Revenue
+Total income
+Margin
+Profit as percentage of revenue
+Operations
+Term
+Definition
+EHR
+Electronic Health Record
+PCC
+PointClickCare — dominant EHR in senior living
+MatrixCare
+Another major senior living EHR
+Change of Shift (COS)
+Handoff between outgoing and incoming staff
+Huddle
+Quick daily meeting for updates
+Rounds
+Walking through facility to check on residents
+Admission
+New resident entering the facility
+Discharge
+Resident leaving the facility
+Transfer
+Moving resident to hospital or other facility
+LOA
+Leave of Absence — resident temporarily out of facility
+Bed Hold
+Holding a bed during LOA (may or may not be paid)
+
+SECTION 4: TYPICAL COSTS & METRICS
+Turnover Costs
+Role
+Typical Annual Turnover
+Cost Per Turnover
+CNA
+50-100%
+$4,000 - $8,000
+LPN
+40-60%
+$8,000 - $15,000
+RN
+30-50%
+$12,000 - $25,000
+DON
+20-40%
+$30,000 - $50,000
+Administrator
+15-25%
+$50,000 - $100,000
+Turnover cost includes: Recruiting, hiring, orientation, training, productivity loss, overtime to cover, agency use during vacancy.
+Agency Markups
+Scenario
+Agency Cost vs. Employee Cost
+CNA (employee $18/hr)
+Agency $32-40/hr (80-120% markup)
+LPN (employee $28/hr)
+Agency $50-65/hr (80-130% markup)
+RN (employee $38/hr)
+Agency $70-95/hr (85-150% markup)
+Example: A facility spending $8M annually on staffing with 15% agency usage at 100% markup = $1.2M in agency premium costs.
+Prior Authorization Metrics
+Metric
+Typical Range
+Initial auth approval rate
+85-95%
+Concurrent review denial rate
+10-20%
+Time per prior auth (initial)
+30-60 minutes
+Time per concurrent review
+20-30 minutes
+Appeal success rate
+40-60%
+Time per appeal
+1-3 hours
+Workflow Time Benchmarks
+Workflow
+Typical Time
+Admission packet review
+45-90 minutes
+MDS assessment
+2-4 hours
+Prior auth narrative
+30-60 minutes
+Denial appeal
+1-3 hours
+Call-off coverage
+10-30 minutes each
+Monthly Key Factors
+2-4 hours
+Month-end close
+8-20 hours
+Administrative Burden Metrics
+Metric
+Industry Benchmark
+Admin overhead % of spend (healthcare overall)
+~20%
+Admin overhead % of spend (SNFs)
+~25%
+Nursing documentation time per shift
+1-2 hours
+BOM administrative hours per week
+40-50+
+MDS nurse hours per assessment
+2-4
+Census & Occupancy
+Metric
+Target Range
+SNF occupancy (healthy)
+88-95%
+SNF occupancy (break-even)
+80-85%
+ALF occupancy (healthy)
+90-95%
+Census change tolerance
+±5% monthly
+PPD Revenue Ranges
+Payer Type
+Typical PPD Range
+Medicare Part A (PDPM)
+$500 - $750
+Medicare Advantage
+$300 - $550
+Medicaid (state-dependent)
+$180 - $280
+Private Pay
+$300 - $450
+Documentation Time
+Activity
+Time
+Nurse documentation per resident per day
+15-30 minutes
+CNA documentation per resident per shift
+5-15 minutes
+Total nursing documentation per shift
+1-2 hours
+Admission documentation
+1-2 hours
+Staffing Metrics
+Metric
+Typical Range
+Call-off rate
+5-15% of shifts
+Agency as % of hours
+5-25% (varies widely)
+Overtime as % of hours
+5-15%
+Staffing ratio (nurses:residents)
+1:10 to 1:15 (day shift)
+Staffing ratio (CNAs:residents)
+1:8 to 1:12 (day shift)
+Survey Metrics
+Metric
+Typical Range
+Average deficiencies per survey
+6-10
+Top-performing facilities
+0-3 deficiencies
+Struggling facilities
+15-25+ deficiencies
+Immediate jeopardy rate
+~2% of surveys
+Common citation areas
+Falls, infection control, abuse/neglect prevention, quality of care
+
+SECTION 5: REGULATORY CONTEXT
+CMS Survey Process
+What It Is: State survey agencies (on behalf of CMS) conduct unannounced inspections to verify compliance with federal and state requirements. Surveys evaluate quality of care, quality of life, resident rights, and physical environment.
+Frequency:
+	•	Standard annual survey (every 9-15 months typically)
+	•	Complaint surveys (triggered by complaints, any time)
+	•	Focused surveys (follow-up on specific issues)
+	•	Life Safety Code surveys (fire/safety)
+What Surveyors Review:
+	•	Resident care and outcomes
+	•	Documentation completeness and accuracy
+	•	Staff competency and availability
+	•	Environment and safety
+	•	Resident and family interviews
+	•	Staff interviews
+	•	Direct observation
+Deficiency Process:
+	•	Surveyor identifies non-compliance
+	•	Assigns F-tag (regulation violated)
+	•	Assigns scope (isolated/pattern/widespread) and severity (harm level)
+	•	Facility receives Statement of Deficiencies
+	•	Facility submits Plan of Correction within 10 days
+	•	Follow-up survey verifies correction
+F-Tags and Common Citations
+What F-Tags Are: F-tags are the regulation numbers in the Code of Federal Regulations (42 CFR 483) that govern nursing home operations. Each F-tag corresponds to a specific requirement.
+Most Commonly Cited F-Tags:
+F-Tag
+Regulation
+Common Issue
+F686
+Pressure Injury Prevention
+Pressure injuries, inadequate prevention
+F689
+Accident Prevention
+Falls, inadequate fall prevention
+F684
+Quality of Care
+General care deficiencies
+F880
+Infection Control
+Infection prevention practices
+F758
+Unnecessary Medications
+Antipsychotic use, medication errors
+F656
+Comprehensive Care Plan
+Incomplete or outdated care plans
+F609
+Abuse Reporting
+Failure to report abuse/neglect
+F641
+Accuracy of Assessments
+MDS inaccuracy
+F725
+Sufficient Nursing Staff
+Staffing below requirements
+Documentation Requirements
+Federal Documentation Requirements:
+	•	Comprehensive assessment (MDS) within required windows
+	•	Care plan for each resident
+	•	Progress notes (frequency varies by state)
+	•	Physician orders
+	•	Medication administration records
+	•	Treatment records
+	•	Incident reports
+	•	Discharge planning documentation
+Why Documentation Matters for AI:
+	•	AI can help ensure completeness and timeliness
+	•	AI can flag missing documentation before survey
+	•	AI can assist with documentation creation
+	•	AI cannot replace clinical judgment but can support it
+Billing Compliance
+Key Compliance Concerns:
+	•	Billing for services not provided
+	•	Billing for services not medically necessary
+	•	Upcoding (claiming higher reimbursement than justified)
+	•	Unbundling (billing separately for services that should be bundled)
+	•	False Claims Act liability
+	•	RAC audits and recoupment
+Implications for AI:
+	•	AI tools must support accurate billing, not maximize billing
+	•	Documentation must support codes
+	•	AI should flag potential compliance issues, not hide them
+	•	Human oversight required for billing decisions
+HIPAA Considerations for AI
+What Operators Need to Know:
+	•	PHI (Protected Health Information) must be secured
+	•	AI tools processing PHI must be HIPAA-compliant
+	•	Business Associate Agreements (BAAs) required with AI vendors handling PHI
+	•	Staff training on appropriate AI use with PHI
+	•	Audit trails for AI interactions with PHI
+Questions to Ask Vendors:
+	•	Is your system HIPAA-compliant?
+	•	Will you sign a BAA?
+	•	Where is data stored and processed?
+	•	How is data protected in transit and at rest?
+	•	Can data be deleted if requested?
+State Licensure Variations
+Key Variations by State:
+	•	Staffing ratio requirements
+	•	Training requirements
+	•	Survey protocols
+	•	Medicaid reimbursement rates
+	•	Medicaid eligibility rules
+	•	Prior authorization requirements
+	•	Documentation standards
+	•	Facility licensure requirements
+States with Notably Different Regulations:
+	•	California (high staffing requirements, unique survey process)
+	•	Florida (large market, specific regulations)
+	•	New York (complex Medicaid system)
+	•	Texas (large market, variable regulations by region)
+
+SECTION 6: TECHNOLOGY LANDSCAPE
+Dominant EHR Systems
+PointClickCare (PCC)
+	•	Market leader in SNF (~75% market share)
+	•	Comprehensive platform: clinical, financial, analytics
+	•	Known for robust functionality but complexity
+	•	Integration hub for many other systems
+	•	Most operators are familiar with PCC
+MatrixCare
+	•	Strong in ALF and post-acute
+	•	Part of ResMed
+	•	Competitive with PCC in functionality
+	•	Different user interface paradigm
+American HealthTech (AHT)
+	•	Older system, still in use
+	•	Being sunset by some operators
+	•	Limited modern functionality
+Other EHR Systems:
+	•	NetHealth (therapy-focused)
+	•	Casamba (therapy documentation)
+	•	Experience Care
+	•	SigmaCare
+Billing Systems
+Standalone Billing Systems:
+	•	Some operators use separate billing systems from EHR
+	•	Integration with EHR is often incomplete
+	•	Creates reconciliation burden
+Billing Modules Within EHR:
+	•	PCC has robust billing
+	•	Integration is better when billing is native to EHR
+Scheduling Systems
+Common Scheduling Solutions:
+	•	PCC Scheduling module
+	•	Kronos
+	•	UKG (formerly Ultimate Kronos Group)
+	•	SmartLinx
+	•	OnShift
+	•	Spreadsheets (still very common)
+The Reality: Many facilities still manage schedules in Excel or Google Sheets, with text messaging for coverage. Even with scheduling software, the call-off coverage process is often manual.
+Therapy Documentation
+Dedicated Therapy Systems:
+	•	Net Health (Optima)
+	•	Casamba
+	•	WebPT
+	•	Rehab Optima
+Integration Challenges: Therapy documentation often lives in a separate system from nursing EHR, creating challenges for Section GG alignment and care coordination.
+Dietary Systems
+Common Systems:
+	•	CBORD
+	•	Computrition
+	•	MealTracker
+	•	Dietary Mgr module in EHR
+How Systems Don't Talk to Each Other
+The Integration Problem:
+	•	EHR, billing, scheduling, therapy, dietary often operate independently
+	•	Staff enter the same information multiple times
+	•	Data doesn't flow automatically
+	•	Reconciliation is manual
+	•	"Source of truth" doesn't exist for many data points
+Examples of Integration Failures:
+	•	Census in EHR doesn't match billing system
+	•	Therapy minutes in therapy system don't flow to MDS
+	•	Dietary orders in EHR don't update in kitchen system
+	•	Staffing in scheduling system doesn't match payroll
+	•	Physician orders entered twice (EHR + pharmacy)
+Why This Matters for AI:
+	•	AI opportunity: connect disparate data
+	•	AI challenge: data quality varies across systems
+	•	Integration is often the limiting factor, not AI capability
+
+SECTION 7: MARKET SEGMENTS
+Large Chains (100+ Facilities)
+Examples: Genesis, PruittHealth, Ensign, Life Care, Sabra
+Characteristics:
+	•	Significant corporate resources
+	•	Standardized processes (theoretically)
+	•	Dedicated IT and compliance teams
+	•	Capital for technology investment
+	•	Bureaucracy can slow decisions
+	•	Regional variation despite standards
+Priorities:
+	•	Portfolio-wide visibility and benchmarking
+	•	Standardization across facilities
+	•	Compliance at scale
+	•	Cost control
+	•	Acquisitions and integration
+AI Considerations:
+	•	Can invest in enterprise solutions
+	•	Need solutions that scale across facilities
+	•	Pilot in select facilities, then roll out
+	•	IT must approve any technology
+	•	Longer decision cycles
+	•	More stakeholders to convince
+Regional Operators (10-50 Facilities)
+Characteristics:
+	•	Often family-owned or private equity-backed
+	•	Regional expertise and relationships
+	•	Smaller corporate team wears many hats
+	•	Variable technology sophistication
+	•	Can move faster than large chains
+	•	More operator-to-operator variation
+Priorities:
+	•	Operational efficiency
+	•	Census and revenue
+	•	Staff retention (competing with larger chains)
+	•	Survey performance
+	•	Growth (if PE-backed)
+	•	Maintaining culture while growing
+AI Considerations:
+	•	Sweet spot for AI adoption
+	•	Can pilot and scale quickly
+	•	Fewer bureaucratic hurdles
+	•	May lack dedicated IT resources
+	•	Decision-makers are accessible
+	•	Often looking for competitive advantage
+Small Operators (1-5 Facilities)
+Characteristics:
+	•	Often owner-operated or family-owned
+	•	Administrator is often the decision-maker
+	•	Limited corporate support
+	•	Tight margins
+	•	Wear multiple hats
+	•	Deep local relationships
+Priorities:
+	•	Survival (census is everything)
+	•	Staff retention
+	•	Personal reputation
+	•	Quality of care
+	•	Survey performance
+	•	Work-life balance (often elusive)
+AI Considerations:
+	•	Limited budget for technology
+	•	Need simple, quick-win solutions
+	•	Don't have time for complex implementations
+	•	Personal relationship with decision-maker
+	•	Can move very quickly if convinced
+	•	May be skeptical of "AI hype"
+Hospital-Based SNFs
+Characteristics:
+	•	Part of a hospital or health system
+	•	Often focused on post-acute transitions
+	•	Integration with hospital operations
+	•	May have different culture than freestanding SNFs
+	•	Hospital resources but also hospital bureaucracy
+Priorities:
+	•	Reducing hospital readmissions
+	•	Smooth transitions from hospital
+	•	Quality metrics aligned with hospital
+	•	Census from hospital referrals
+	•	Cost efficiency
+AI Considerations:
+	•	Must work within hospital IT infrastructure
+	•	May have hospital-mandated systems
+	•	Readmission reduction is a major opportunity
+	•	Transition coordination is high-value
+	•	Decision process involves hospital leadership
+Standalone ALFs
+Characteristics:
+	•	Often smaller operations
+	•	Less regulated than SNFs
+	•	Focused on residential experience
+	•	May have limited clinical capacity
+	•	Staff may not have SNF experience
+Priorities:
+	•	Occupancy
+	•	Resident satisfaction
+	•	Family satisfaction
+	•	Staffing
+	•	Avoiding SNF-level acuity
+AI Considerations:
+	•	Simpler workflows than SNF
+	•	Less regulatory documentation burden
+	•	Scheduling and communication are key pain points
+	•	Family communication high priority
+	•	May not need complex clinical AI
+Faith-Based Operators
+Examples: Lutheran, Catholic, Baptist, Jewish federation facilities
+Characteristics:
+	•	Mission-driven culture
+	•	Often part of larger faith organizations
+	•	May have financial support from faith community
+	•	Strong community connections
+	•	Values-based decision-making
+Priorities:
+	•	Mission fulfillment
+	•	Quality of care aligned with values
+	•	Staff alignment with mission
+	•	Community trust
+	•	Financial sustainability to support mission
+AI Considerations:
+	•	Values alignment important
+	•	"Replacing people" concerns particularly sensitive
+	•	AI as supporting mission, not just efficiency
+	•	May be slower to adopt new technology
+	•	Relationships matter more than pitch
+Private Equity-Backed Operators
+Characteristics:
+	•	Investment-focused ownership
+	•	Growth orientation
+	•	Financial discipline
+	•	Standardization and efficiency focus
+	•	Typically 3-7 year hold period
+	•	Professional management
+Priorities:
+	•	EBITDA and NOI
+	•	Census and revenue growth
+	•	Cost reduction
+	•	M&A integration
+	•	Exit preparation
+	•	Performance metrics
+AI Considerations:
+	•	Receptive to ROI-focused solutions
+	•	Want measurable results quickly
+	•	May have capital for investment
+	•	Efficiency focus aligns with AI opportunity
+	•	May prioritize speed over perfection
+	•	Portfolio-wide thinking
+
+SECTION 8: DECISION-MAKER PSYCHOLOGY
+What Operators Care About (Always)
+Census and Revenue
+	•	Census is the lifeblood of the facility
+	•	Every empty bed is lost revenue
+	•	Referral relationships are everything
+	•	Payer mix matters (Medicare > Medicaid for revenue)
+	•	Revenue drives everything else
+Survey Scores and Compliance
+	•	Survey results are public and affect reputation
+	•	Star ratings impact referrals
+	•	Deficiencies create stress, work, and risk
+	•	Immediate jeopardy is career-threatening
+	•	Compliance is non-negotiable
+Staff Retention and Satisfaction
+	•	Turnover is expensive and exhausting
+	•	Good staff are hard to find
+	•	Staff morale affects care quality
+	•	Burnout leads to turnover
+	•	Staffing is always on their mind
+Family Satisfaction
+	•	Families can be advocates or adversaries
+	•	Word of mouth affects census
+	•	Complaints create work and risk
+	•	Satisfied families reduce stress
+	•	Family satisfaction is a leading indicator
+Operational Efficiency
+	•	Time is always short
+	•	Less waste = more capacity
+	•	Smoother operations = less stress
+	•	Efficiency enables better care
+	•	Leaders want to work smarter, not harder
+Market Competitiveness
+	•	Other facilities are competing for the same referrals
+	•	Reputation matters
+	•	Quality metrics are compared publicly
+	•	Operators want to be the "go-to" in their market
+What Operators Fear
+Survey Deficiencies
+	•	Surprise surveys are anxiety-inducing
+	•	Deficiencies are public and embarrassing
+	•	Immediate jeopardy can end careers
+	•	Survey prep never feels "done"
+	•	The unknown is terrifying
+Financial Losses
+	•	Low census can threaten viability
+	•	Denials eat into revenue
+	•	Cash flow problems create stress
+	•	Budget misses bring corporate scrutiny
+	•	Financial failure is personal failure
+Staff Turnover
+	•	Losing key staff is devastating
+	•	Replacement is hard and expensive
+	•	Institutional knowledge walks out the door
+	•	New staff need training and time
+	•	Turnover creates more turnover
+Reputation Damage
+	•	Public survey results
+	•	Negative reviews
+	•	Media coverage of issues
+	•	Word of mouth in the community
+	•	Once damaged, hard to rebuild
+Regulatory Penalties
+	•	Civil money penalties
+	•	Denial of payment
+	•	Special focus facility status
+	•	Loss of Medicare/Medicaid certification
+	•	Personal liability in extreme cases
+Lawsuits
+	•	Negligence claims
+	•	Wrongful death
+	•	Family complaints escalating to litigation
+	•	Time and stress of legal process
+	•	Personal and professional consequences
+What Motivates Operators
+Protecting Residents
+	•	Most operators entered this field because they care
+	•	Resident safety and wellbeing are core motivators
+	•	Seeing residents thrive is rewarding
+	•	Preventing harm is a moral imperative
+	•	Pride in quality care
+Supporting Staff
+	•	Good leaders want their staff to succeed
+	•	Reducing burden is satisfying
+	•	Seeing staff happy and engaged
+	•	Creating a positive work environment
+	•	Building a team that stays
+Financial Sustainability
+	•	Keeping the doors open
+	•	Ensuring residents can be served long-term
+	•	Meeting budget expectations
+	•	Personal and professional success
+	•	Security for staff and residents
+Competitive Advantage
+	•	Being the best in the market
+	•	Winning referrals
+	•	High star ratings
+	•	Industry recognition
+	•	Professional pride
+Personal Pride in Quality
+	•	Administrators want to be proud of their building
+	•	Quality is a personal reflection
+	•	Positive survey is validation
+	•	Happy families are rewarding
+	•	Legacy and reputation matter
+How to Engage Decision-Makers
+Lead with Their Pain:
+	•	Start with problems they recognize
+	•	Use their language
+	•	Acknowledge the difficulty of their job
+	•	Show you understand their world
+Show Proof, Not Promise:
+	•	Case studies from similar facilities
+	•	Measurable results
+	•	References they can call
+	•	Pilots before enterprise commitments
+Reduce Risk:
+	•	Offer pilots with low commitment
+	•	Define clear success criteria
+	•	Provide failure insurance (kill criteria)
+	•	Don't require massive change upfront
+Respect Their Expertise:
+	•	They know their buildings better than anyone
+	•	Ask questions, don't lecture
+	•	Position yourself as a partner, not an expert who knows better
+	•	Listen more than you talk
+Make it Easy:
+	•	Minimize implementation burden
+	•	Provide clear next steps
+	•	Don't add to their already-full plate
+	•	Meet them where they are
+Address the Fear of AI Replacing People:
+	•	Lead with reassurance: AI reduces workload, not headcount
+	•	Show that staff will benefit
+	•	Acknowledge the demographic reality
+	•	Frame AI as protecting people, not eliminating them
+
+SECTION 9: THE DEMOGRAPHIC REALITY
+The Numbers That Matter
+Aging Population:
+	•	Adults 85+ will double in coming decades
+	•	By 2030, 1 in 5 Americans will be 65+
+	•	By 2034, more seniors than children for first time in U.S. history
+	•	The population needing care is exploding
+Workforce Crisis:
+	•	Working-age population is flat
+	•	Current caregiver shortage: hundreds of thousands
+	•	Projected shortage by 2030: 1 million+
+	•	Turnover rates of 50-100% make shortages worse
+	•	Immigration policy affects pipeline
+The Math:
+	•	More residents needing care
+	•	Fewer workers available to provide care
+	•	No amount of recruiting can solve this
+	•	Wage increases are necessary but not sufficient
+	•	The only scalable answer: reduce workload per person
+What This Means for AI
+AI is not optional—it's necessary:
+	•	The math doesn't work without load reduction
+	•	AI is the only lever that scales
+	•	Every hour saved is an hour available for care
+	•	Operators who adopt AI early will survive and thrive
+	•	Those who wait will face staffing crises they cannot solve
+The framing that works:
+	•	"AI isn't replacing people. AI is reducing the workload per person so we can keep up with the demographic wave that's already here."
+	•	"We cannot hire our way out of this."
+	•	"AI is how we protect our staff from burning out."
+
+SECTION 10: SUCCESS STORIES REFERENCE
+Quick Reference: Case Studies from Documents
+Glide — Admissions & Documentation
+	•	Problem: 72-hour documentation backlog
+	•	Solution: AI synthesizes packets, finds codes, drafts ADRs
+	•	Result: 72 hours → 2 hours; 45 min saved/admission; $25 PPD lift
+	•	Silent Killers solved: Documentation Burden, Manual Processes, Knowledge Silos, Communication Overload
+Contract Management System
+	•	Problem: 13,000 contracts buried in SharePoint
+	•	Solution: AI extracts metadata, organizes into CMS
+	•	Result: $2.3M+ in financial clarity and risk visibility
+	•	Silent Killers solved: Data Disorganization, Manual Processes, Knowledge Silos
+ReadyShift — Staffing
+	•	Problem: Agency markup 100-200%, endless texting for coverage
+	•	Solution: Direct clinician-to-facility marketplace
+	•	Result: 30-50% reduction on $8M agency baseline
+	•	Silent Killers solved: Manual Processes, Communication Overload
+PCC Automation
+	•	Problem: 130+ logins/month requiring outsourced helpdesk at $125 each
+	•	Solution: AI-designed automation creates users automatically
+	•	Result: $20,000/month eliminated
+	•	Silent Killers solved: Manual Processes, Knowledge Silos, Data Disorganization
+SNF Pulse — Key Factors
+	•	Problem: Administrators spend hours building monthly Key Factors
+	•	Solution: AI extracts data & auto-generates Key Factors
+	•	Result: ~1 FTE reclaimed across 70 facilities
+	•	Silent Killers solved: Data Disorganization, Communication Overload
+Billing Automation (Part B)
+	•	Problem: $2M/year outsourced Part B billing
+	•	Solution: AI-assisted coding, rule validation, documentation alignment
+	•	Result: 90% estimated cost savings
+	•	Silent Killers solved: Documentation Burden, Manual Processes, Knowledge Silos, Communication Overload
+
+This domain knowledge reference should be used to inform every response, ensuring industry-specific insight rather than generic business advice. When operators describe problems, map them to roles, workflows, Silent Killers, and industry context. Speak their language. Understand their world.
+

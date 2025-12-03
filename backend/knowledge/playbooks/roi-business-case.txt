@@ -1,0 +1,255 @@
+ROI CALCULATION & BUSINESS CASE PLAYBOOK
+Build a Compelling Case for AI Investment
+Templates, Formulas, and Objection Handlers
+Overview
+Getting leadership approval for AI investment requires more than enthusiasm. You need numbers, narrative, and answers to tough questions. This playbook gives you everything you need to build and present a compelling business case.
+The $100K Rule:
+If the workflow can't realistically return $100K in the first 12 months, it's not a priority. Focus on high-impact opportunities.
+What This Playbook Covers:
+	•	Quantify Current State — Measure the cost of doing nothing
+	•	Project Future State — Calculate realistic improvements
+	•	Account for Implementation — Include all costs
+	•	Build the Narrative — Tell the story leadership needs
+	•	Address Objections — Prepare for pushback
+STEP 1: Quantify Current State
+Goal: Calculate the true cost of your current workflow. This becomes your baseline for measuring improvement.
+Time Costs
+Measure exactly how much time the workflow consumes.
+Data to Collect:
+	•	Time per instance (stopwatch 10+ instances)
+	•	Number of instances per day/week/month
+	•	Number of people who touch the workflow
+	•	Overtime hours related to this workflow
+Time Cost Formula:
+Annual Time Cost = (Time per Instance × Volume per Year) × Fully-Loaded Hourly Rate
+Fully-Loaded Hourly Rate Guide:
+Role
+Base Rate
+Fully-Loaded*
+CNA
+$16-20/hr
+$22-28/hr
+LPN
+$25-32/hr
+$35-45/hr
+RN
+$32-45/hr
+$45-62/hr
+Scheduler/Admin Staff
+$18-25/hr
+$25-35/hr
+BOM/Biller
+$22-35/hr
+$30-48/hr
+MDS Coordinator
+$35-50/hr
+$48-68/hr
+Administrator
+$45-75/hr
+$62-100/hr
+*Fully-loaded includes benefits, taxes, and overhead (typically 1.35-1.4x base rate)
+Error Costs
+Errors create rework, delays, and sometimes direct financial impact.
+Data to Collect:
+	•	Error rate (errors per 100 instances)
+	•	Time to correct each error
+	•	Direct financial impact of errors (denied claims, penalties, etc.)
+Error Cost Formula:
+Annual Error Cost = (Error Rate × Volume × Correction Time × Hourly Rate) + Direct Financial Impact
+Common Error Costs in Senior Living:
+Error Type
+Typical Cost
+Claim denial (Part A)
+$500-2,500 per denial + appeal time
+Prior auth delay
+$200-500/day in delayed revenue
+PDPM coding error
+$10-50 PPD revenue variance
+Missed admission documentation
+$1,000-5,000 per incident
+Scheduling error (agency call)
+$200-500 per shift in markup
+Survey citation (documentation)
+$5,000-50,000+ depending on severity
+Opportunity Costs
+What revenue or value is delayed or lost because of this workflow?
+Examples:
+	•	Admission delays: Each day of delayed admission = lost revenue
+	•	Referral response time: Slow response = lost referrals to competitors
+	•	AR delays: Cash flow impact of slow billing
+	•	Staff burnout: Turnover cost = $8,000-12,000 per CNA, $15,000-25,000 per nurse
+Current State Summary Template
+Cost Category
+Annual Cost
+A. Time Cost (labor spent on workflow)
+$_____________
+B. Error Cost (rework + financial impact)
+$_____________
+C. Opportunity Cost (delayed/lost revenue)
+$_____________
+TOTAL CURRENT STATE COST (A+B+C):
+$_____________
+STEP 2: Project Future State
+Goal: Calculate realistic improvements. Be conservative—it's better to under-promise and over-deliver.
+Realistic Improvement Estimates
+Based on real-world AI implementations in senior living:
+Workflow Type
+Conservative
+Aggressive
+Documentation/Coding
+30-40% time saved
+50-70% time saved
+Prior Auth Narratives
+40-50% time saved
+60-75% time saved
+Scheduling/Coverage
+20-30% time saved
+40-50% time saved
+Data Entry/Reconciliation
+50-60% time saved
+70-90% time saved
+Report Generation
+60-70% time saved
+80-95% time saved
+Error Rate Reduction
+20-30% reduction
+40-60% reduction
+Pro Tip: Always use conservative estimates in your business case. If you hit aggressive numbers, you're a hero. If you only hit conservative, you still delivered.
+Calculate Projected Savings
+Savings Formula:
+Annual Savings = Current State Cost × Improvement Percentage
+Example Calculation:
+	•	Current time cost: $85,000/year
+	•	Current error cost: $35,000/year
+	•	Total current state: $120,000/year
+	•	Conservative improvement: 35%
+	•	Projected savings: $120,000 × 35% = $42,000/year
+STEP 3: Account for Implementation Costs
+Goal: Include ALL costs to get true ROI. Hidden costs kill business cases.
+Cost Categories
+Cost Type
+Typical Range
+Your Estimate
+Software/Tool Cost
+$200-2,000/month
+$________/mo
+Implementation Fee
+$0-10,000 one-time
+$________
+Training Time (staff hours)
+2-8 hours × staff count
+$________
+Project Management Time
+20-40 hours internal
+$________
+Productivity Dip (learning curve)
+10-20% for 2-4 weeks
+$________
+Risk Buffer (10-15%)
+10-15% of total
+$________
+TOTAL YEAR 1 COST:
+
+$________
+Calculate Net ROI
+ROI Formulas:
+Year 1 Net Savings = Projected Annual Savings – Year 1 Total Cost
+ROI % = (Net Savings ÷ Year 1 Total Cost) × 100
+Example:
+	•	Projected annual savings: $42,000
+	•	Year 1 total cost: $18,000
+	•	Year 1 net savings: $42,000 – $18,000 = $24,000
+	•	ROI: ($24,000 ÷ $18,000) × 100 = 133%
+STEP 4: Build the Narrative
+Goal: Numbers alone don't convince. You need a story that resonates with leadership.
+Executive Summary Template (2-3 paragraphs)
+Copy and customize this template:
+EXECUTIVE SUMMARY
+
+[Opening - The Problem]
+Our [department] team currently spends [X hours/week] on [workflow name]. This translates to approximately $[current state cost] annually in staff time, errors, and delayed revenue. More importantly, it contributes to staff burnout and limits our capacity for higher-value work.
+
+[Middle - The Solution]
+We propose implementing [solution name], an AI-assisted tool that [brief description of what it does]. Based on our analysis and reference checks with similar facilities, we project a [conservative %] reduction in time spent on this workflow, translating to approximately $[savings] in annual savings.
+
+[Closing - The Ask]
+We are requesting approval for a [30/60/90]-day pilot in [one building/department] at a cost of $[pilot cost]. Success criteria are defined, and we have an exit plan if results don't materialize. Expected Year 1 ROI is [X]%, with payback achieved in [X] months.
+One-Page Financial Summary
+FINANCIAL SUMMARY
+Amount
+Current State Annual Cost
+$_________
+Projected Annual Savings (conservative)
+$_________
+Year 1 Implementation Cost
+$_________
+Year 1 Net Savings
+$_________
+Year 1 ROI
+________%
+Payback Period
+_______ months
+3-Year Projected Savings
+$_________
+Presentation Deck Outline (10 Slides)
+If you need to present to leadership, use this structure:
+	•	The Problem: Current workflow pain (1 slide)
+	•	The Cost: Current state financials (1 slide)
+	•	The Opportunity: What AI can do (1 slide)
+	•	The Solution: Proposed tool/approach (1 slide)
+	•	The Evidence: Reference results (1 slide)
+	•	The Plan: Pilot scope and timeline (1 slide)
+	•	The Investment: Costs and resources needed (1 slide)
+	•	The Return: ROI projection (1 slide)
+	•	The Risks: What could go wrong + mitigation (1 slide)
+	•	The Ask: Specific approval requested (1 slide)
+STEP 5: Address Objections
+Goal: Prepare for pushback. Every objection has a response.
+"Too Expensive"
+Response:
+"I understand the concern about cost. Let me share the full picture: we're currently spending $[current state cost] annually on this workflow. The proposed solution costs $[tool cost] per year—that's a net savings of $[savings] even in Year 1. The question isn't whether we can afford this tool; it's whether we can afford not to use it."
+Supporting Data:
+	•	Show the side-by-side cost comparison
+	•	Highlight payback period ("This pays for itself in X months")
+	•	Offer to start with a lower-cost pilot
+"Too Risky"
+Response:
+"Risk is exactly why we're proposing a controlled pilot. We'll test in one building, with one workflow, for 30-60 days. We have clear success criteria and an exit plan if it doesn't work. The real risk is doing nothing while competitors adopt these tools and our staff continues to burn out."
+Supporting Data:
+	•	Reference similar facilities that have succeeded
+	•	Share the pilot scope (limited, controlled)
+	•	Highlight the exit clause in vendor contract
+"Not Proven"
+Response:
+"I spoke with [reference facility] who implemented this 6 months ago. They're seeing [specific results]. I'd be happy to connect you with their administrator if you'd like to hear it directly. The technology is proven—the only question is whether it works for our specific situation, which is exactly what the pilot will answer."
+Supporting Data:
+	•	Reference check summaries
+	•	Case studies from vendor
+	•	Offer to arrange a reference call
+"We Don't Have Time"
+Response:
+"That's exactly the problem we're solving. Right now, [Hero name] spends [X hours/week] on this workflow. That's time they can't spend on [higher-value activity]. Yes, there's an upfront time investment for the pilot—about [X hours] over the first month. But after that, we get [X hours/week] back permanently. We're trading a small investment now for ongoing capacity."
+Supporting Data:
+	•	Show implementation timeline
+	•	Compare upfront investment vs. ongoing savings
+	•	Identify what the Hero could do with reclaimed time
+"What About Job Loss?"
+Response:
+"This is about load reduction, not job replacement. We're facing a demographic crisis—the 85+ population will double while the workforce stays flat. We simply cannot hire our way out of administrative burden. AI lets us handle more work with the same team. No one is losing their job; they're losing their burnout."
+Supporting Data:
+	•	Demographic statistics (85+ doubling, caregiver shortage)
+	•	Current turnover costs
+	•	Staff survey on burnout/satisfaction
+Business Case Final Checklist
+Before presenting, confirm you have:
+	•	☐ Current state cost calculated (time + errors + opportunity)
+	•	☐ Future state savings projected (conservative estimates)
+	•	☐ All implementation costs included
+	•	☐ Net ROI calculated
+	•	☐ Executive summary written
+	•	☐ One-page financial summary complete
+	•	☐ Objection responses prepared
+	•	☐ Pilot scope defined (one building, one workflow)
+	•	☐ Success criteria documented
+	•	☐ Exit plan ready if pilot fails
+A good business case doesn't sell AI—it sells results.
