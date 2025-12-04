@@ -3,6 +3,7 @@ import cors from 'cors'
 import dotenv from 'dotenv'
 import chatRouter from './routes/chat.js'
 import emailRouter from './routes/email.js'
+import analyticsRouter from './routes/analytics.js'
 import './database/init.js' // Initialize database on startup
 
 // Load environment variables
@@ -39,6 +40,9 @@ app.use(cors({
   credentials: true,
 }))
 
+// Serve static files (for analytics dashboard)
+app.use(express.static('public'))
+
 // Health check endpoint
 app.get('/health', (req, res) => {
   res.json({ status: 'ok', timestamp: new Date().toISOString() })
@@ -47,6 +51,7 @@ app.get('/health', (req, res) => {
 // API routes
 app.use('/api', chatRouter)
 app.use('/api/email', emailRouter)
+app.use('/api/analytics', analyticsRouter)
 
 // Error handling middleware
 app.use((err, req, res, next) => {

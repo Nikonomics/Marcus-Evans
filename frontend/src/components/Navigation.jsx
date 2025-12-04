@@ -61,6 +61,14 @@ const Navigation = () => {
                   {link.label}
                 </button>
               ))}
+              <a
+                href="https://marcusevansfido.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-green-500 hover:bg-green-600 text-white px-4 py-2 rounded-md text-sm font-bold transition-colors shadow-lg hover:shadow-xl"
+              >
+                LIVE BUILD!
+              </a>
             </div>
           </div>
 
@@ -110,6 +118,14 @@ const Navigation = () => {
                 {link.label}
               </button>
             ))}
+            <a
+              href="https://marcusevansfido.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-green-500 hover:bg-green-600 text-white block px-3 py-2 rounded-md text-base font-bold w-full text-center transition-colors shadow-lg"
+            >
+              LIVE BUILD!
+            </a>
           </div>
         </div>
       )}

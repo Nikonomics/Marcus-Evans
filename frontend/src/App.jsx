@@ -5,6 +5,7 @@ import Navigation from './components/Navigation'
 import Hero from './components/Hero'
 import ChatbotSection from './components/ChatbotSection'
 import FrameworksSection from './components/FrameworksSection'
+import LiveBuildBanner from './components/LiveBuildBanner'
 import CaseStudiesSection from './components/CaseStudiesSection'
 import AboutSection from './components/AboutSection'
 import Footer from './components/Footer'
@@ -20,6 +21,7 @@ function App() {
           <Hero />
           <ChatbotSection />
           <FrameworksSection />
+          <LiveBuildBanner />
           <CaseStudiesSection />
           <AboutSection />
           <Footer />

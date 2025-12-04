@@ -1,5 +1,6 @@
 import React from 'react'
 import { useEmailContext } from '../contexts/EmailContext'
+import analytics from '../utils/analytics'
 
 const FrameworksSection = () => {
   const { hasAccess, requireEmail } = useEmailContext()
@@ -81,6 +82,9 @@ const FrameworksSection = () => {
     if (!hasAccess) {
       requireEmail()
     } else {
+      // Track the download
+      analytics.trackFrameworkDownload(framework.title)
+
       // Create a temporary anchor element to trigger download
       const link = document.createElement('a')
       link.href = framework.downloadUrl
@@ -95,6 +99,9 @@ const FrameworksSection = () => {
     if (!hasAccess) {
       requireEmail()
     } else {
+      // Track the complete kit download
+      analytics.trackFrameworkDownload('Complete AI Starter Kit')
+
       // Download the explainer PDF
       const link = document.createElement('a')
       link.href = '/frameworks/complete-kit-explainer.pdf'

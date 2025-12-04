@@ -1,4 +1,5 @@
 import React from 'react'
+import analytics from '../utils/analytics'
 
 const CaseStudiesSection = () => {
   const caseStudies = [
@@ -170,6 +171,7 @@ const CaseStudiesSection = () => {
                       href={study.websiteUrl}
                       target="_blank"
                       rel="noopener noreferrer"
+                      onClick={() => analytics.trackCaseStudyLearnMore(study.title, study.websiteUrl)}
                       className="text-blue-600 hover:text-blue-700 text-sm font-medium flex items-center"
                     >
                       Learn more

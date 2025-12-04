@@ -1,6 +1,7 @@
 import React from 'react'
 import { useEmailContext } from '../contexts/EmailContext'
 import { useChatContext } from '../contexts/ChatContext'
+import analytics from '../utils/analytics'
 
 const ChatbotSection = () => {
   const { hasAccess, requireEmail } = useEmailContext()
@@ -39,12 +40,17 @@ const ChatbotSection = () => {
     }
   ]
 
-  const handleModeClick = (prompt) => {
+  const handleModeClick = (mode) => {
     if (!hasAccess) {
       requireEmail()
       return
     }
-    openChat(prompt)
+
+    // Track which mode was selected
+    analytics.trackChatbotMode(mode.name)
+    analytics.trackChatbotOpen(mode.name)
+
+    openChat(mode.prompt)
   }
 
   return (
@@ -71,7 +77,7 @@ const ChatbotSection = () => {
             {modes.map((mode, index) => (
               <button
                 key={index}
-                onClick={() => handleModeClick(mode.prompt)}
+                onClick={() => handleModeClick(mode)}
                 className="p-6 text-left bg-white rounded-lg shadow-md hover:shadow-xl hover:bg-primary-50 transition-all duration-200 group"
               >
                 <div className="flex items-start gap-4">

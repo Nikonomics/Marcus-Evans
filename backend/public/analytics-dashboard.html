@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Analytics Dashboard - Marcus Evans 2025</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body class="bg-gray-50">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <div class="mb-8">
+      <h1 class="text-3xl font-bold text-gray-900">Analytics Dashboard</h1>
+      <p class="text-gray-600 mt-2">Marcus Evans 2025 Conference Site</p>
+    </div>
+
+    <!-- Stats Overview -->
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-6 mb-8">
+      <div class="bg-white rounded-lg shadow p-6">
+        <div class="text-sm text-gray-600 mb-1">Total Events</div>
+        <div id="total-events" class="text-3xl font-bold text-gray-900">-</div>
+      </div>
+      <div class="bg-white rounded-lg shadow p-6">
+        <div class="text-sm text-gray-600 mb-1">Framework Downloads</div>
+        <div id="framework-downloads" class="text-3xl font-bold text-blue-600">-</div>
+      </div>
+      <div class="bg-white rounded-lg shadow p-6">
+        <div class="text-sm text-gray-600 mb-1">Chatbot Opens</div>
+        <div id="chatbot-opens" class="text-3xl font-bold text-green-600">-</div>
+      </div>
+      <div class="bg-white rounded-lg shadow p-6">
+        <div class="text-sm text-gray-600 mb-1">Case Study Clicks</div>
+        <div id="case-study-clicks" class="text-3xl font-bold text-purple-600">-</div>
+      </div>
+    </div>
+
+    <!-- Charts -->
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-8">
+      <div class="bg-white rounded-lg shadow p-6">
+        <h2 class="text-lg font-semibold text-gray-900 mb-4">Events by Type</h2>
+        <canvas id="events-by-type-chart"></canvas>
+      </div>
+      <div class="bg-white rounded-lg shadow p-6">
+        <h2 class="text-lg font-semibold text-gray-900 mb-4">Activity Over Last 7 Days</h2>
+        <canvas id="events-by-day-chart"></canvas>
+      </div>
+    </div>
+
+    <!-- Top Events Table -->
+    <div class="bg-white rounded-lg shadow mb-8">
+      <div class="px-6 py-4 border-b border-gray-200">
+        <h2 class="text-lg font-semibold text-gray-900">Top Events</h2>
+      </div>
+      <div class="overflow-x-auto">
+        <table class="min-w-full divide-y divide-gray-200">
+          <thead class="bg-gray-50">
+            <tr>
+              <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Type</th>
+              <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Event</th>
+              <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Count</th>
+            </tr>
+          </thead>
+          <tbody id="top-events-table" class="bg-white divide-y divide-gray-200">
+            <!-- Populated by JavaScript -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Refresh Button -->
+    <div class="text-center">
+      <button onclick="loadAnalytics()" class="bg-blue-600 text-white px-6 py-2 rounded-lg font-medium hover:bg-blue-700 transition-colors">
+        Refresh Data
+      </button>
+      <p class="text-sm text-gray-500 mt-2">Last updated: <span id="last-updated">-</span></p>
+    </div>
+  </div>
+
+  <script>
+    const API_URL = window.location.origin
+
+    let eventsByTypeChart = null
+    let eventsByDayChart = null
+
+    async function loadAnalytics() {
+      try {
+        const response = await fetch(`${API_URL}/api/analytics/stats`)
+        const stats = await response.json()
+
+        // Update overview stats
+        document.getElementById('total-events').textContent = stats.total.toLocaleString()
+
+        // Calculate type-specific counts
+        const frameworkDownloads = stats.byType.find(t => t.event_type === 'framework_download')?.count || 0
+        const chatbotEvents = stats.byType.find(t => t.event_type === 'chatbot')?.count || 0
+        const caseStudyEvents = stats.byType.find(t => t.event_type === 'case_study')?.count || 0
+
+        document.getElementById('framework-downloads').textContent = frameworkDownloads.toLocaleString()
+        document.getElementById('chatbot-opens').textContent = chatbotEvents.toLocaleString()
+        document.getElementById('case-study-clicks').textContent = caseStudyEvents.toLocaleString()
+
+        // Update charts
+        updateEventsByTypeChart(stats.byType)
+        updateEventsByDayChart(stats.byDay)
+
+        // Update top events table
+        updateTopEventsTable(stats.topEvents)
+
+        // Update timestamp
+        document.getElementById('last-updated').textContent = new Date().toLocaleTimeString()
+
+      } catch (error) {
+        console.error('Failed to load analytics:', error)
+        alert('Failed to load analytics data')
+      }
+    }
+
+    function updateEventsByTypeChart(byType) {
+      const ctx = document.getElementById('events-by-type-chart')
+      const data = {
+        labels: byType.map(t => t.event_type),
+        datasets: [{
+          data: byType.map(t => t.count),
+          backgroundColor: [
+            '#3B82F6', // blue
+            '#10B981', // green
+            '#8B5CF6', // purple
+            '#F59E0B', // yellow
+            '#EF4444', // red
+          ]
+        }]
+      }
+
+      if (eventsByTypeChart) {
+        eventsByTypeChart.destroy()
+      }
+
+      eventsByTypeChart = new Chart(ctx, {
+        type: 'doughnut',
+        data: data,
+        options: {
+          responsive: true,
+          maintainAspectRatio: true,
+          plugins: {
+            legend: {
+              position: 'bottom'
+            }
+          }
+        }
+      })
+    }
+
+    function updateEventsByDayChart(byDay) {
+      const ctx = document.getElementById('events-by-day-chart')
+      const data = {
+        labels: byDay.map(d => d.date).reverse(),
+        datasets: [{
+          label: 'Events',
+          data: byDay.map(d => d.count).reverse(),
+          borderColor: '#3B82F6',
+          backgroundColor: '#3B82F620',
+          fill: true
+        }]
+      }
+
+      if (eventsByDayChart) {
+        eventsByDayChart.destroy()
+      }
+
+      eventsByDayChart = new Chart(ctx, {
+        type: 'line',
+        data: data,
+        options: {
+          responsive: true,
+          maintainAspectRatio: true,
+          plugins: {
+            legend: {
+              display: false
+            }
+          },
+          scales: {
+            y: {
+              beginAtZero: true,
+              ticks: {
+                precision: 0
+              }
+            }
+          }
+        }
+      })
+    }
+
+    function updateTopEventsTable(topEvents) {
+      const tbody = document.getElementById('top-events-table')
+      tbody.innerHTML = topEvents.map(event => `
+        <tr>
+          <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900">${event.event_type}</td>
+          <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-600">${event.event_name}</td>
+          <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">${event.count}</td>
+        </tr>
+      `).join('')
+    }
+
+    // Load analytics on page load
+    loadAnalytics()
+
+    // Auto-refresh every 30 seconds
+    setInterval(loadAnalytics, 30000)
+  </script>
+</body>
+</html>
