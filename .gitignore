@@ -11,6 +11,10 @@ node_modules/
 # Database (contains user emails)
 backend/data/*.db
 backend/data/*.db-journal
+backend/src/database/*.db
+backend/src/database/*.db-journal
+backend/src/db/*.db
+backend/src/db/*.db-journal
 
 # Build outputs
 frontend/dist/

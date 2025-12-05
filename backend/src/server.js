@@ -4,6 +4,7 @@ import dotenv from 'dotenv'
 import chatRouter from './routes/chat.js'
 import emailRouter from './routes/email.js'
 import analyticsRouter from './routes/analytics.js'
+import adminRouter from './routes/admin.js'
 import './database/init.js' // Initialize database on startup
 
 // Load environment variables
@@ -52,6 +53,7 @@ app.get('/health', (req, res) => {
 app.use('/api', chatRouter)
 app.use('/api/email', emailRouter)
 app.use('/api/analytics', analyticsRouter)
+app.use('/api/admin', adminRouter)
 
 // Error handling middleware
 app.use((err, req, res, next) => {
